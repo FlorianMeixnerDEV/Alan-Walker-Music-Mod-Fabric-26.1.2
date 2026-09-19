@@ -1,0 +1,24 @@
+newmtl AVI-8_chell-exhaust
+illum 1
+d 1.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Tf 1.0 1.0 1.0
+map_Kd AVI-8_chell-exhaust
+Pr 0.78005916
+Pm 1.0
+Ke 0.0 0.0 0.0
+map_Ke emissiveMap1.png
+norm normalMap1.png
+newmtl AVI-8-interior-lense
+illum 1
+d 1.0
+Ka 1.0 1.0 1.0
+Kd 1.0 1.0 1.0
+Tf 1.0 1.0 1.0
+map_Kd AVI-8-interior-lense
+Pr 0.80733186
+Pm 1.0
+Ke 0.0 0.0 0.0
+map_Ke emissiveMap2.png
+norm normalMap2.png

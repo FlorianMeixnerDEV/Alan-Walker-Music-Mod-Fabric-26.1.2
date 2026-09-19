@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:alan_walker_protrait_small",
+  "height": 1,
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_protrait_small.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_protrait_small.author"
+  }
+}

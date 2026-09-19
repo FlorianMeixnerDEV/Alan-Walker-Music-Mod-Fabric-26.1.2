@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:alan_walker_old_habits",
+  "height": 2,
+  "width": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_old_habits.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_old_habits.author"
+  }
+}

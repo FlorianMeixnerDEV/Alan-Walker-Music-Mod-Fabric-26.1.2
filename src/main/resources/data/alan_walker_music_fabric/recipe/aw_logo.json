@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "aw_logo",
+  "category": "building",
+  "pattern": [
+    " a ",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:iron_block"
+  },
+  "result": {
+    "id": "alan_walker_music_fabric:aw_logo",
+    "count": 1
+  }
+}

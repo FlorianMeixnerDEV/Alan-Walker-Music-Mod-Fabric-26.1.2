@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.alan_walker_music_fabric.dreamer.desc"
+  },
+  "length_in_seconds": 155,
+  "sound_event": "alan_walker_music_fabric:dreamer"
+}

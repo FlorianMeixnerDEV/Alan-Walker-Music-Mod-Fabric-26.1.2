@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "aufsteller",
+  "category": "building",
+  "ingredients": [
+    "minecraft:blue_wool",
+    "minecraft:black_wool",
+    "minecraft:blue_wool",
+    "minecraft:black_wool",
+    "minecraft:blue_wool",
+    "minecraft:black_wool",
+    "minecraft:birch_planks",
+    "minecraft:birch_planks",
+    "minecraft:birch_planks"
+  ],
+  "result": {
+    "id": "alan_walker_music_fabric:aufsteller",
+    "count": 1
+  }
+}

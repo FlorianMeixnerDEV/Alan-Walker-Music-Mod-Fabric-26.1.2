@@ -1,0 +1,12 @@
+{
+  "_fv": 89,
+  "_type": "villagerprofession",
+  "definition": {
+    "displayName": "Disc Dealer",
+    "pointOfInterest": "Blocks.JUKEBOX",
+    "actionSound": "entity.zombie_villager.converted",
+    "hat": "Full",
+    "professionTextureFile": "aw_villager.png",
+    "zombifiedProfessionTextureFile": "aw_villager.png"
+  }
+}

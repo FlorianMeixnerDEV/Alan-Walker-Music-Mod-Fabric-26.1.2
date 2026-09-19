@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.alan_walker_music_fabric.jumpstart.desc"
+  },
+  "length_in_seconds": 89,
+  "sound_event": "alan_walker_music_fabric:jumpstart"
+}

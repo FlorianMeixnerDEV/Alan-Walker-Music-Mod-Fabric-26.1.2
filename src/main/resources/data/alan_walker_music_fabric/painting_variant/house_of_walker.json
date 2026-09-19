@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:house_of_walker",
+  "height": 2,
+  "width": 4,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.house_of_walker.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.house_of_walker.author"
+  }
+}

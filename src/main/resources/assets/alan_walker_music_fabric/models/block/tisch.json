@@ -1,0 +1,8 @@
+{
+  "parent": "alan_walker_music_fabric:custom/tisch",
+  "textures": {
+    "all": "alan_walker_music_fabric:block/texture",
+    "particle": "alan_walker_music_fabric:block/texture",
+    "1": "alan_walker_music_fabric:block/texture"
+  }
+}

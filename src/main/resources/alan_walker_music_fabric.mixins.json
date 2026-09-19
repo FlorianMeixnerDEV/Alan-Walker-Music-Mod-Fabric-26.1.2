@@ -1,0 +1,26 @@
+{
+  "required": true,
+  "package": "net.florianmeixnerdev.alanwalkermusic.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "refmap": "alan_walker_music_fabric.refmap.json",
+  "mixins": [
+    "LivingEntityMixin",
+    "PlayerMixin",
+    "ItemStackMixin",
+    "BlockItemMixin",
+    "BoneMealItemMixin",
+    "CommandsMixin",
+    "ExperienceOrbMixin",
+    "RepairItemRecipeMixin",
+    "ServerPlayerMixin",
+    "PiglinAiMixin",
+    "MonsterRoomFeatureMixin"
+  ],
+  "client": [
+    "EquipmentLayerRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "minVersion": "0.8.4"
+}

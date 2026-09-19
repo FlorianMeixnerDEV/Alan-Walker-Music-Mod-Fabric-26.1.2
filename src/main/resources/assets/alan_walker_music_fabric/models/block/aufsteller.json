@@ -1,0 +1,8 @@
+{
+  "parent": "alan_walker_music_fabric:custom/aufsteller",
+  "textures": {
+    "all": "alan_walker_music_fabric:block/aufsteller",
+    "particle": "alan_walker_music_fabric:block/aufsteller",
+    "1": "alan_walker_music_fabric:block/aufsteller"
+  }
+}

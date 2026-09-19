@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "alan_walker_music_fabric:block/walker_radio"
+    },
+    "facing=east": {
+      "model": "alan_walker_music_fabric:block/walker_radio",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "alan_walker_music_fabric:block/walker_radio",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "alan_walker_music_fabric:block/walker_radio",
+      "y": 270
+    }
+  }
+}

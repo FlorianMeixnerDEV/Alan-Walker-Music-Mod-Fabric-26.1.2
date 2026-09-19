@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:alan_walker_logo_klein",
+  "height": 1,
+  "width": 1,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_logo_klein.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_logo_klein.author"
+  }
+}

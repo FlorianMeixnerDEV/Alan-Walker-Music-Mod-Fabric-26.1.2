@@ -1,0 +1,12 @@
+{
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 51
+  },
+  "gives": {
+    "id": "alan_walker_music_fabric:old_habits"
+  },
+  "max_uses": 1,
+  "xp": 5,
+  "reputation_discount": 0.05
+}

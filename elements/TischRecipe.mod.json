@@ -1,0 +1,31 @@
+{
+  "_fv": 89,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "deko",
+    "unlockingItems": [
+      "Blocks.PLANKS#2"
+    ],
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "BUILDING",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      "Blocks.PLANKS#2",
+      "Blocks.PLANKS#2",
+      "Blocks.PLANKS#2",
+      "Blocks.PLANKS#2",
+      "",
+      "Blocks.PLANKS#2",
+      "Blocks.PLANKS#2",
+      "",
+      "Blocks.PLANKS#2"
+    ],
+    "recipeReturnStack": "CUSTOM:Tisch",
+    "name": "tisch_",
+    "namespace": "mod"
+  }
+}

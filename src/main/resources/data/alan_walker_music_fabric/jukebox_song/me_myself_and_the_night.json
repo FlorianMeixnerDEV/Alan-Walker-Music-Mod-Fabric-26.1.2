@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.alan_walker_music_fabric.me_myself_and_the_night.desc"
+  },
+  "length_in_seconds": 250,
+  "sound_event": "alan_walker_music_fabric:memyselfandthenight"
+}

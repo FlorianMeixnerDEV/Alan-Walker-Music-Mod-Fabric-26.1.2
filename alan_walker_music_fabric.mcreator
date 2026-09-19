@@ -1,0 +1,3154 @@
+{
+  "mod_elements": [
+    {
+      "name": "Disc",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/CreativeTab"
+    },
+    {
+      "name": "AlanWalker135",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_135",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/alan_walker_135.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/alan_walker_135.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AlanWalker135Item.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/alan_walker_135.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "WelcomeToLonelyClub",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "welcome_to_lonely_club",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/WelcomeToLonelyClubItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/welcome_to_lonely_club.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/welcome_to_lonely_club.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/welcome_to_lonely_club.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Alone",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alone",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/alone.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/alone.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/alone.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AloneItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Sailing",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sailing",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/sailing.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/sailing.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/SailingItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/sailing.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Avalon",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "avalon",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AvalonItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/avalon.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/avalon.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/avalon.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Believers",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "believers",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/believers.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/BelieversItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/believers.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/believers.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Blue",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blue",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/blue.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/blue.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/blue.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/BlueItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "CatchMeIfYouCan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "catch_me_if_you_can",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/catch_me_if_you_can.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/catch_me_if_you_can.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/CatchMeIfYouCanItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/catch_me_if_you_can.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "CreatorCircle",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creator_circle",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/creator_circle.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/creator_circle.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/CreatorCircleItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/creator_circle.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "DiamondHeart",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_heart",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/diamond_heart.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/DiamondHeartItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/diamond_heart.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/diamond_heart.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Dreamer",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dreamer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/dreamer.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/DreamerItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/dreamer.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/dreamer.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Dust",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dust",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/DustItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/dust.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/dust.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/dust.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Extremes",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "extremes",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/ExtremesItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/extremes.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/extremes.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/extremes.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Faded",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/faded.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/faded.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/faded.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/FadedItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Fire",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fire",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/fire.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/fire.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/fire.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/FireItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Headlights",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "headlights",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/headlights.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/headlights.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/headlights.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/HeadlightsItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "HeartbreakMelody",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "heartbreak_melody",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/HeartbreakMelodyItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/heartbreak_melody.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/heartbreak_melody.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/heartbreak_melody.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "HelloWorld",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hello_world",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/hello_world.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/HelloWorldItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/hello_world.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/hello_world.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Incommunicado",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "incommunicado",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/incommunicado.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/incommunicado.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/incommunicado.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/IncommunicadoItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Jumpstart",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "jumpstart",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/JumpstartItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/jumpstart.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/jumpstart.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/jumpstart.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Lovesick",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lovesick",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/LovesickItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/lovesick.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/lovesick.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/lovesick.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "MeMyselfAndTheNight",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "me_myself_and_the_night",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/me_myself_and_the_night.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/me_myself_and_the_night.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/MeMyselfAndTheNightItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/me_myself_and_the_night.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Moonshine",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "moonshine",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/moonshine.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/MoonshineItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/moonshine.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/moonshine.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "OldHabits",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "old_habits",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/old_habits.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/old_habits.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/OldHabitsItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/old_habits.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Play",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "play",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/play.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/PlayItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/play.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/play.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "ShutUp",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "shut_up",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/shut_up.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/shut_up.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/ShutUpItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/shut_up.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "SingMeToSleep",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sing_me_to_sleep",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/sing_me_to_sleep.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/sing_me_to_sleep.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/sing_me_to_sleep.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/SingMeToSleepItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "TheDrum",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_drum",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/the_drum.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/the_drum.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/TheDrumItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/the_drum.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "TheSpectre",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "the_spectre",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/the_spectre.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/TheSpectreItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/the_spectre.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/the_spectre.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Time",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "time",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/time.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/time.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/TimeItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/time.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "SpaceMelody",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "space_melody",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/SpaceMelodyItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/space_melody.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/space_melody.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/space_melody.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "WecomeToWalkerworld",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "wecome_to_walkerworld",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/wecome_to_walkerworld.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/wecome_to_walkerworld.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/wecome_to_walkerworld.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/WecomeToWalkerworldItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "RiseOfTheDrones",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rise_of_the_drones",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/RiseOfTheDronesItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/rise_of_the_drones.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/rise_of_the_drones.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/rise_of_the_drones.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Mobs",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mobs",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/CreativeTab"
+    },
+    {
+      "name": "AlanWalker",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/alan_walker_spawn_egg.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/alan_walker_spawn_egg.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/renderer/AlanWalkerRenderer.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/entity/AlanWalkerEntity.java"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "Bodyguard",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bodyguard",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/renderer/BodyguardRenderer.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/entity/BodyguardEntity.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/bodyguard_spawn_egg.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/bodyguard_spawn_egg.json"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "InfoProzedur",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info_prozedur",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/InfoProzedurProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren"
+    },
+    {
+      "name": "Info",
+      "type": "command",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "info",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/command/InfoCommand.java"
+        ]
+      },
+      "path": "~/Befehle"
+    },
+    {
+      "name": "AlanWalkerLogo",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_logo",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/alan_walker_logo.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "HouseOfWalker",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "house_of_walker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/house_of_walker.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "AlanWalkerOldHabits",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_old_habits",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/alan_walker_old_habits.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "WorldOfWalker",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "world_of_walker",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/world_of_walker.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "Deko",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deko",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/CreativeTab"
+    },
+    {
+      "name": "CreatorCirclePainting",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creator_circle_painting",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/creator_circle_painting.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "LinkInfo",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "link_info",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/world/inventory/LinkInfoMenu.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/gui/LinkInfoScreen.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/network/LinkInfoButtonMessage.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "ModrinthLink",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "modrinth_link",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/ModrinthLinkProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/GUI/Info"
+    },
+    {
+      "name": "GithubWebsite",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "github_website",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/GithubWebsiteProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/GUI/Info"
+    },
+    {
+      "name": "Github",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "github",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/GithubProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/GUI/Info"
+    },
+    {
+      "name": "CloseGUI",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "close_gui",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/CloseGUIProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/GUI/Info"
+    },
+    {
+      "name": "BrokenStrings",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_strings",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/broken_strings.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/broken_strings.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/broken_strings.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/BrokenStringsItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "NotHome",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "not_home",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/NotHomeItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/not_home.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/not_home.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/not_home.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Faded10thAniniversary",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_10th_aniniversary",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/Faded10thAniniversaryItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/faded_10th_aniniversary.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/faded_10th_aniniversary.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/faded_10th_aniniversary.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "CreatorCircleKlein",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creator_circle_klein",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/creator_circle_klein.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "AlanWalkerLogoKlein",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_logo_klein",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/alan_walker_logo_klein.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "AlanWalkerProtraitSmall",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_protrait_small",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/alan_walker_protrait_small.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "AlanWalkerPotraitBig",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_potrait_big",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/alan_walker_potrait_big.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "AlanWalkerLogo10x10",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_logo_10x_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/alan_walker_logo_10x_10.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "CreatorCircle10x10",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "creator_circle_10x_10",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/creator_circle_10x_10.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "HouseOfWalker10x5",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "house_of_walker_10x_5",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/house_of_walker_10x_5.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "AlanWalkerVoid",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "alan_walker_void",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/alan_walker_void.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AlanWalkerVoidItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/alan_walker_void.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/alan_walker_void.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Adagio",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "adagio",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/adagio.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/adagio.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/adagio.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AdagioItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "ThisIsMe",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "this_is_me",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/this_is_me.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/ThisIsMeItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/this_is_me.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/this_is_me.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "AWMonster",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aw_monster",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AWMonsterItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/aw_monster.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/aw_monster.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/aw_monster.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "AWorldIDontKnow",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "a_world_i_dont_know",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/a_world_i_dont_know.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/a_world_i_dont_know.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/AWorldIDontKnowItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/a_world_i_dont_know.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "Eroina",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eroina",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/EroinaItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/eroina.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/eroina.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/eroina.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "CustomArmor",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_armor",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/CreativeTab"
+    },
+    {
+      "name": "Police",
+      "type": "armor",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "police",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/police_chestplate.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/renderer/item/PoliceArmor.java",
+          "src/main/resources/assets/alan_walker_music_fabric/equipment/police.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/police_chestplate.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/police_leggings.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/police_leggings.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/police_helmet.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/police_boots.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/PoliceItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/police_boots.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/police_helmet.json"
+        ]
+      },
+      "path": "~/Custom Armor"
+    },
+    {
+      "name": "CrazyFan",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "crazy_fan",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/entity/CrazyFanEntity.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/renderer/CrazyFanRenderer.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/crazy_fan_spawn_egg.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/crazy_fan_spawn_egg.json"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "Tisch",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tisch",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/loot_table/blocks/tisch.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/block/TischBlock.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/tisch.json",
+          "src/main/resources/assets/alan_walker_music_fabric/blockstates/tisch.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/block/tisch.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/tisch.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "AWLogo",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aw_logo",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/block/AWLogoBlock.java",
+          "src/main/resources/assets/alan_walker_music_fabric/blockstates/aw_logo.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/aw_logo.json",
+          "src/main/resources/data/alan_walker_music_fabric/loot_table/blocks/aw_logo.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/aw_logo.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/block/aw_logo.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Aufsteller",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aufsteller",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/aufsteller.json",
+          "src/main/resources/assets/alan_walker_music_fabric/blockstates/aufsteller.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/aufsteller.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/block/aufsteller.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/block/AufstellerBlock.java",
+          "src/main/resources/data/alan_walker_music_fabric/loot_table/blocks/aufsteller.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "Deko1",
+      "type": "itemextension",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "deko_1",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/Prozeduren"
+    },
+    {
+      "name": "Fantasy",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "fantasy",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/fantasy.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/FantasyItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/fantasy.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/fantasy.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "KillingMeSlowly",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "killing_me_slowly",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/KillingMeSlowlyItem.java",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/killing_me_slowly.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/killing_me_slowly.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/killing_me_slowly.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "BrokenAngel",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "broken_angel",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/broken_angel.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/BrokenAngelItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/broken_angel.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/broken_angel.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "HymForTheWeekendRemix",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hym_for_the_weekend_remix",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/hym_for_the_weekend_remix.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/hym_for_the_weekend_remix.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/hym_for_the_weekend_remix.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/HymForTheWeekendRemixItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "RunningOutOfRoses",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "running_out_of_roses",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/RunningOutOfRosesItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/running_out_of_roses.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/running_out_of_roses.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/running_out_of_roses.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "FadedJodok",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "faded_jodok",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/faded_jodok.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/faded_jodok.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/faded_jodok.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/FadedJodokItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "WhoIAmJodok",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "who_i_am_jodok",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/who_i_am_jodok.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/who_i_am_jodok.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/WhoIAmJodokItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/who_i_am_jodok.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "CustomChest",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "custom_chest",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/loot_table/chests/alan_walker.json"
+        ]
+      },
+      "path": "~/Beutetabellen"
+    },
+    {
+      "name": "Tools",
+      "type": "tab",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tools",
+      "metadata": {
+        "files": []
+      },
+      "path": "~/CreativeTab"
+    },
+    {
+      "name": "Falle",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "falle",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/FalleProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren"
+    },
+    {
+      "name": "DiscDealer",
+      "type": "villagerprofession",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_dealer",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/textures/entity/villager/profession/disc_dealer.png.mcmeta",
+          "src/main/resources/data/alan_walker_music_fabric/trade_set/disc_dealer/level_3.json",
+          "src/main/resources/data/alan_walker_music_fabric/trade_set/disc_dealer/level_4.json",
+          "src/main/resources/data/alan_walker_music_fabric/trade_set/disc_dealer/level_1.json",
+          "src/main/resources/data/alan_walker_music_fabric/trade_set/disc_dealer/level_2.json",
+          "src/main/resources/data/alan_walker_music_fabric/trade_set/disc_dealer/level_5.json"
+        ]
+      },
+      "path": "~/Dorfbewohner Beruf"
+    },
+    {
+      "name": "DiscDealerr",
+      "type": "villagertrade",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "disc_dealerr",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_22.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_29.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_41.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_46.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_42.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_33.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_13.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_2.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_40.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_1.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_7.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_24.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_43.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_19.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_23.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_49.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_28.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_14.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_34.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_51.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_39.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_0.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_37.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_11.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_32.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_47.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_44.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_3.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_17.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_48.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_6.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_31.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_45.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_26.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_5.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_9.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_10.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_35.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_20.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_16.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/1/disc_dealerr_4.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_25.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_8.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_30.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_18.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/3/disc_dealerr_21.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_50.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_27.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/4/disc_dealerr_38.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_12.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/2/disc_dealerr_15.json",
+          "src/main/resources/data/alan_walker_music_fabric/villager_trade/disc_dealer/5/disc_dealerr_36.json"
+        ]
+      },
+      "path": "~/Dorfbewohner Beruf"
+    },
+    {
+      "name": "TischRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "tisch_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/recipe/tisch_.json",
+          "src/main/resources/data/alan_walker_music_fabric/advancement/recipes/tisch_recipe.json"
+        ]
+      },
+      "path": "~/Items/Rezepte"
+    },
+    {
+      "name": "AufstellerRecipe",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aufsteller_recipe",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/recipe/aufsteller.json",
+          "src/main/resources/data/alan_walker_music_fabric/advancement/recipes/aufsteller_recipe.json"
+        ]
+      },
+      "path": "~/Items/Rezepte"
+    },
+    {
+      "name": "AWLogoRezept",
+      "type": "recipe",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aw_logo_rezept",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/advancement/recipes/aw_logo_rezept.json",
+          "src/main/resources/data/alan_walker_music_fabric/recipe/aw_logo.json"
+        ]
+      },
+      "path": "~/Items/Rezepte"
+    },
+    {
+      "name": "Getaway",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "getaway",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/getaway.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/getaway.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/GetawayItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/getaway.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "BelieverAV8",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "believer_av_8",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/BelieverAV8Item.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/believer_av_8.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/believer_av_8.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/believer_av_8.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "PeterPan",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "peter_pan",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/peter_pan.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/peter_pan.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/peter_pan.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/PeterPanItem.java"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "DreamOn",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dream_on",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/DreamOnItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/dream_on.json",
+          "src/main/resources/data/alan_walker_music_fabric/jukebox_song/dream_on.json",
+          "src/main/resources/assets/alan_walker_music_fabric/items/dream_on.json"
+        ]
+      },
+      "path": "~/Disc"
+    },
+    {
+      "name": "AWUBahn",
+      "type": "painting",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "awu_bahn",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/painting_variant/awu_bahn.json"
+        ]
+      },
+      "path": "~/Gemaelde"
+    },
+    {
+      "name": "OPSchwert",
+      "type": "tool",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "op_schwert",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/alan_walker_music_fabric/items/op_schwert.json",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/item/OPSchwertItem.java",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/op_schwert.json"
+        ]
+      },
+      "path": "~/Tools"
+    },
+    {
+      "name": "AW",
+      "type": "structure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aw",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/alan_walker_music_fabric/worldgen/structure/aw.json",
+          "src/main/resources/data/alan_walker_music_fabric/worldgen/structure_set/aw.json",
+          "src/main/resources/data/alan_walker_music_fabric/worldgen/template_pool/aw.json"
+        ]
+      }
+    },
+    {
+      "name": "AngryPolice",
+      "type": "livingentity",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "angry_police",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/entity/AngryPoliceEntity.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/renderer/AngryPoliceRenderer.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/angry_police_spawn_egg.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/angry_police_spawn_egg.json"
+        ]
+      },
+      "path": "~/Mobs"
+    },
+    {
+      "name": "WalkerRadio",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walker_radio",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/block/WalkerRadioBlock.java",
+          "src/main/resources/assets/alan_walker_music_fabric/items/walker_radio.json",
+          "src/main/resources/assets/alan_walker_music_fabric/blockstates/walker_radio.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/block/walker_radio.json",
+          "src/main/resources/assets/alan_walker_music_fabric/models/item/walker_radio.json",
+          "src/main/resources/data/alan_walker_music_fabric/loot_table/blocks/walker_radio.json"
+        ]
+      },
+      "path": "~/Items"
+    },
+    {
+      "name": "WalkerRadioGUI",
+      "type": "gui",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walker_radio_gui",
+      "metadata": {
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/world/inventory/WalkerRadioGUIMenu.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/client/gui/WalkerRadioGUIScreen.java",
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/network/WalkerRadioGUIButtonMessage.java"
+        ]
+      },
+      "path": "~/GUI"
+    },
+    {
+      "name": "WalkerRadioOpen",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walker_radio_open",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/WalkerRadioOpenProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/Walker Radio"
+    },
+    {
+      "name": "WalkerRadioPlay",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walker_radio_play",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/WalkerRadioPlayProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/Walker Radio"
+    },
+    {
+      "name": "WalkerRadioStop",
+      "type": "procedure",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "walker_radio_stop",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ],
+        "files": [
+          "src/main/java/net/florianmeixnerdev/alanwalkermusic/procedures/WalkerRadioStopProcedure.java"
+        ]
+      },
+      "path": "~/Prozeduren/Walker Radio"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "alanwalker135",
+      "files": [
+        "135"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "lonelyclub",
+      "files": [
+        "alanwalker_steveaoki_lonelyclub_welcometolonelyclub"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sailing",
+      "files": [
+        "alanwalker_x_oldscoolrunescape_sailing"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "alone",
+      "files": [
+        "alone"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "avalon",
+      "files": [
+        "avalon"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "believers",
+      "files": [
+        "believers"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "blue",
+      "files": [
+        "blue"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "catchmeifyoucan",
+      "files": [
+        "catchmeifyoucan"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "creatorcircle",
+      "files": [
+        "creatorcircle"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "diamondheart",
+      "files": [
+        "diamondheart"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "dreamer",
+      "files": [
+        "dremaer"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "dust",
+      "files": [
+        "dust"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "extremes",
+      "files": [
+        "exremes"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "faded",
+      "files": [
+        "faded"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "fire",
+      "files": [
+        "fire"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "headlights",
+      "files": [
+        "headlights"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "heartbreakmelody",
+      "files": [
+        "heartbreakmelody"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "helloworld",
+      "files": [
+        "helloworld"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "incommunicado",
+      "files": [
+        "incommunicado"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "jumpstart",
+      "files": [
+        "jumpstart"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "lovesick",
+      "files": [
+        "lovesick"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "memyselfandthenight",
+      "files": [
+        "memyselfandthenight"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "moonshine",
+      "files": [
+        "moonshine"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "oldhabits",
+      "files": [
+        "oldhabits"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "play",
+      "files": [
+        "play"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "shutup",
+      "files": [
+        "shutup"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "singmetosleep",
+      "files": [
+        "singmetosleep"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "thedrum",
+      "files": [
+        "the_drum"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "thespectre",
+      "files": [
+        "thesprectre"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "time",
+      "files": [
+        "time"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "spacemelody",
+      "files": [
+        "vizeofficial_x_alan_walker_space_melody_edward_artemyev_ft._leony_official_lyric_video_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "welcometowalkerworld",
+      "files": [
+        "welcometowalkerworld"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "riseofthedrones",
+      "files": [
+        "worldofwalker_riseofthedrones"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "schritte",
+      "files": [
+        "schritte-auf-stein-388650"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "brokenstrings",
+      "files": [
+        "alan_walker_-_broken_strings_official_music_video_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "nothome",
+      "files": [
+        "alan_walker_-_not_home_official_lyric_video_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "faded_10th_anniversary",
+      "files": [
+        "faded_-_10th_anniversary_performance_video_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "void",
+      "files": [
+        "alan_walker_sorana_-_void_official_lyric_video"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "adagio",
+      "files": [
+        "alan_walker_-_adagio_official_lyric_video"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "aw_monster",
+      "files": [
+        "alanwalker_emyrsonflora_monster"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "thisisme",
+      "files": [
+        "alan_walker_this_is_me"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "aworldidontknow",
+      "files": [
+        "aworldidontknow"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "eroina",
+      "files": [
+        "alanwalker_sorana_eroina"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "fantasy",
+      "files": [
+        "alan_walker_steve_aoki_lonely_club_-_fantasy_official_visualizer_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "killingmeslowly",
+      "files": [
+        "alan_walker_steve_aoki_lonely_club_-_killing_me_slowly_lalala_official_visualizer_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "brokenangel",
+      "files": [
+        "alan_walker_steve_aoki_lonely_club_arash_-_broken_angel_official_visualizer_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "hymfortheweekend",
+      "files": [
+        "alan_walker_vs_coldplay_-_hymn_for_the_weekend_remix_tuberipper.cc"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "runningoutofroses",
+      "files": [
+        "alan_walker_x_jamie_miller_-_running_out_of_roses_official_lyric_video_tuberipper.net"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "fadedcoverbyjodok",
+      "files": [
+        "faded_-_alan_walker___cello_cover_by_jodok_vuille_01"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "whoiamcoverbyjodok",
+      "files": [
+        "who_i_am_-_alan_walker___jodok_cello_01"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "getaway",
+      "files": [
+        "02._alan_walker__emyrson_flora_-_getaway"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "sing_me_to_sleep",
+      "files": [
+        "9_-_sing_me_to_sleep"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "beliver_av8",
+      "files": [
+        "12._alan_walker_-_believer_av8"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "peterpan",
+      "files": [
+        "alanwalker_andrewsbates_peterpan"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    },
+    {
+      "name": "dreamon",
+      "files": [
+        "11._alan_walker_-_dream_on"
+      ],
+      "category": "neutral",
+      "subtitle": ""
+    }
+  ],
+  "tag_elements": {
+    "BLOCKS:minecraft:logs_that_burn": [
+      "TAG:mod:holzpaket_1_logs"
+    ],
+    "ITEMS:minecraft:logs_that_burn": [
+      "TAG:mod:holzpaket_1_logs"
+    ],
+    "VILLAGER_TRADES:alan_walker_music_fabric:disc_dealer/level_1": [
+      "~DiscDealerr@disc_dealerr_51",
+      "~DiscDealerr@disc_dealerr_49",
+      "~DiscDealerr@disc_dealerr_48",
+      "~DiscDealerr@disc_dealerr_45",
+      "~DiscDealerr@disc_dealerr_43",
+      "~DiscDealerr@disc_dealerr_42",
+      "~DiscDealerr@disc_dealerr_7",
+      "~DiscDealerr@disc_dealerr_6",
+      "~DiscDealerr@disc_dealerr_5",
+      "~DiscDealerr@disc_dealerr_4",
+      "~DiscDealerr@disc_dealerr_3",
+      "~DiscDealerr@disc_dealerr_2",
+      "~DiscDealerr@disc_dealerr_1",
+      "~DiscDealerr@disc_dealerr_0"
+    ],
+    "VILLAGER_TRADES:alan_walker_music_fabric:disc_dealer/level_2": [
+      "~DiscDealerr@disc_dealerr_50",
+      "~DiscDealerr@disc_dealerr_15",
+      "~DiscDealerr@disc_dealerr_14",
+      "~DiscDealerr@disc_dealerr_13",
+      "~DiscDealerr@disc_dealerr_12",
+      "~DiscDealerr@disc_dealerr_11",
+      "~DiscDealerr@disc_dealerr_10",
+      "~DiscDealerr@disc_dealerr_9",
+      "~DiscDealerr@disc_dealerr_8"
+    ],
+    "VILLAGER_TRADES:alan_walker_music_fabric:disc_dealer/level_3": [
+      "~DiscDealerr@disc_dealerr_47",
+      "~DiscDealerr@disc_dealerr_44",
+      "~DiscDealerr@disc_dealerr_23",
+      "~DiscDealerr@disc_dealerr_22",
+      "~DiscDealerr@disc_dealerr_21",
+      "~DiscDealerr@disc_dealerr_20",
+      "~DiscDealerr@disc_dealerr_19",
+      "~DiscDealerr@disc_dealerr_18",
+      "~DiscDealerr@disc_dealerr_17",
+      "~DiscDealerr@disc_dealerr_16"
+    ],
+    "VILLAGER_TRADES:alan_walker_music_fabric:disc_dealer/level_4": [
+      "~DiscDealerr@disc_dealerr_46",
+      "~DiscDealerr@disc_dealerr_40",
+      "~DiscDealerr@disc_dealerr_39",
+      "~DiscDealerr@disc_dealerr_38",
+      "~DiscDealerr@disc_dealerr_31",
+      "~DiscDealerr@disc_dealerr_30",
+      "~DiscDealerr@disc_dealerr_29",
+      "~DiscDealerr@disc_dealerr_28",
+      "~DiscDealerr@disc_dealerr_27",
+      "~DiscDealerr@disc_dealerr_26",
+      "~DiscDealerr@disc_dealerr_25",
+      "~DiscDealerr@disc_dealerr_24"
+    ],
+    "VILLAGER_TRADES:alan_walker_music_fabric:disc_dealer/level_5": [
+      "~DiscDealerr@disc_dealerr_41",
+      "~DiscDealerr@disc_dealerr_37",
+      "~DiscDealerr@disc_dealerr_36",
+      "~DiscDealerr@disc_dealerr_35",
+      "~DiscDealerr@disc_dealerr_34",
+      "~DiscDealerr@disc_dealerr_33",
+      "~DiscDealerr@disc_dealerr_32"
+    ],
+    "ITEMS:minecraft:music_discs": [
+      "~DreamOn@CUSTOM:DreamOn",
+      "~PeterPan@CUSTOM:PeterPan",
+      "~BelieverAV8@CUSTOM:BelieverAV8",
+      "~Getaway@CUSTOM:Getaway",
+      "~WhoIAmJodok@CUSTOM:WhoIAmJodok",
+      "~FadedJodok@CUSTOM:FadedJodok",
+      "~RunningOutOfRoses@CUSTOM:RunningOutOfRoses",
+      "~HymForTheWeekendRemix@CUSTOM:HymForTheWeekendRemix",
+      "~BrokenAngel@CUSTOM:BrokenAngel",
+      "~KillingMeSlowly@CUSTOM:KillingMeSlowly",
+      "~Fantasy@CUSTOM:Fantasy",
+      "~Eroina@CUSTOM:Eroina",
+      "~AWorldIDontKnow@CUSTOM:AWorldIDontKnow",
+      "~AWMonster@CUSTOM:AWMonster",
+      "~ThisIsMe@CUSTOM:ThisIsMe",
+      "~Adagio@CUSTOM:Adagio",
+      "~AlanWalkerVoid@CUSTOM:AlanWalkerVoid",
+      "~Faded10thAniniversary@CUSTOM:Faded10thAniniversary",
+      "~NotHome@CUSTOM:NotHome",
+      "~BrokenStrings@CUSTOM:BrokenStrings",
+      "~RiseOfTheDrones@CUSTOM:RiseOfTheDrones",
+      "~WecomeToWalkerworld@CUSTOM:WecomeToWalkerworld",
+      "~SpaceMelody@CUSTOM:SpaceMelody",
+      "~Time@CUSTOM:Time",
+      "~TheSpectre@CUSTOM:TheSpectre",
+      "~TheDrum@CUSTOM:TheDrum",
+      "~SingMeToSleep@CUSTOM:SingMeToSleep",
+      "~ShutUp@CUSTOM:ShutUp",
+      "~Play@CUSTOM:Play",
+      "~OldHabits@CUSTOM:OldHabits",
+      "~Moonshine@CUSTOM:Moonshine",
+      "~MeMyselfAndTheNight@CUSTOM:MeMyselfAndTheNight",
+      "~Lovesick@CUSTOM:Lovesick",
+      "~Jumpstart@CUSTOM:Jumpstart",
+      "~Incommunicado@CUSTOM:Incommunicado",
+      "~HelloWorld@CUSTOM:HelloWorld",
+      "~HeartbreakMelody@CUSTOM:HeartbreakMelody",
+      "~Headlights@CUSTOM:Headlights",
+      "~Fire@CUSTOM:Fire",
+      "~Faded@CUSTOM:Faded",
+      "~Extremes@CUSTOM:Extremes",
+      "~Dust@CUSTOM:Dust",
+      "~Dreamer@CUSTOM:Dreamer",
+      "~DiamondHeart@CUSTOM:DiamondHeart",
+      "~CreatorCircle@CUSTOM:CreatorCircle",
+      "~CatchMeIfYouCan@CUSTOM:CatchMeIfYouCan",
+      "~Blue@CUSTOM:Blue",
+      "~Believers@CUSTOM:Believers",
+      "~Avalon@CUSTOM:Avalon",
+      "~Sailing@CUSTOM:Sailing",
+      "~Alone@CUSTOM:Alone",
+      "~WelcomeToLonelyClub@CUSTOM:WelcomeToLonelyClub",
+      "~AlanWalker135@CUSTOM:AlanWalker135"
+    ],
+    "ENTITIES:minecraft:illager": [
+      "~AngryPolice@CUSTOM:AngryPolice",
+      "~Bodyguard@CUSTOM:Bodyguard",
+      "~AlanWalker@CUSTOM:AlanWalker"
+    ],
+    "PAINTING_VARIANTS:minecraft:placeable": [
+      "~AWUBahn@CUSTOM:AWUBahn",
+      "~HouseOfWalker10x5@CUSTOM:HouseOfWalker10x5",
+      "~CreatorCircle10x10@CUSTOM:CreatorCircle10x10",
+      "~AlanWalkerLogo10x10@CUSTOM:AlanWalkerLogo10x10",
+      "~AlanWalkerPotraitBig@CUSTOM:AlanWalkerPotraitBig",
+      "~AlanWalkerProtraitSmall@CUSTOM:AlanWalkerProtraitSmall",
+      "~AlanWalkerLogoKlein@CUSTOM:AlanWalkerLogoKlein",
+      "~CreatorCircleKlein@CUSTOM:CreatorCircleKlein",
+      "~CreatorCirclePainting@CUSTOM:CreatorCirclePainting",
+      "~WorldOfWalker@CUSTOM:WorldOfWalker",
+      "~AlanWalkerOldHabits@CUSTOM:AlanWalkerOldHabits",
+      "~HouseOfWalker@CUSTOM:HouseOfWalker",
+      "~AlanWalkerLogo@CUSTOM:AlanWalkerLogo"
+    ],
+    "ITEMS:minecraft:head_armor": [
+      "~Police@CUSTOM:Police.helmet"
+    ],
+    "ITEMS:minecraft:chest_armor": [
+      "~Police@CUSTOM:Police.body"
+    ],
+    "ITEMS:minecraft:leg_armor": [
+      "~Police@CUSTOM:Police.legs"
+    ],
+    "ITEMS:minecraft:foot_armor": [
+      "~Police@CUSTOM:Police.boots"
+    ],
+    "POINTS_OF_INTEREST:minecraft:acquirable_job_site": [
+      "~DiscDealer@CUSTOM:DiscDealer"
+    ],
+    "ITEMS:minecraft:swords": [
+      "~OPSchwert@CUSTOM:OPSchwert"
+    ]
+  },
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "subtitles.avalon": "",
+      "subtitles.alanwalker135": "",
+      "subtitles.lonelyclub": "",
+      "subtitles.all": "",
+      "item_group.alan_walker_music.disc": "Disc",
+      "subtitles.sailing": "",
+      "subtitles.alone": "",
+      "subtitles.believers": "",
+      "subtitles.blue": "",
+      "subtitles.catchmeifyoucan": "",
+      "subtitles.creatorcircle": "",
+      "item.alan_walker_music.alan_walker_135": "Disc",
+      "item.alan_walker_music.alan_walker_135.desc": "Alan Walker - 135",
+      "item.alan_walker_music.welcome_to_lonely_club": "Disc",
+      "item.alan_walker_music.welcome_to_lonely_club.desc": "Alan Walker, Steve Aoki, Lonely Club - Welcome To Lonely Club",
+      "item.alan_walker_music.alone.desc": "Alan Walker - Alone",
+      "item.alan_walker_music.alone": "Disc",
+      "item.alan_walker_music.sailing.desc": "Alan Walker x Old School RuneScape - Sailing",
+      "item.alan_walker_music.sailing": "Disc",
+      "item.alan_walker_music.avalon": "Disc",
+      "item.alan_walker_music.avalon.desc": "Alan Walker, Anne Gudrun - Avalon",
+      "item.alan_walker_music.believers.desc": "Alan Walker, Conor Maynard - Believers",
+      "item.alan_walker_music.believers": "Disc",
+      "item.alan_walker_music.blue": "Disc",
+      "item.alan_walker_music.blue.desc": "Alan Walker \u0026 Ina Wroldsen - Blue",
+      "item.alan_walker_music.catch_me_if_you_can.desc": "Alan Walker, Sorana - Catch Me If You Can",
+      "item.alan_walker_music.catch_me_if_you_can": "Disc",
+      "subtitles.diamondheart": "",
+      "subtitles.dreamer": "",
+      "subtitles.dust": "",
+      "item.alan_walker_music.creator_circle": "Disc",
+      "item.alan_walker_music.creator_circle.desc": "Alan Walker - Creator Circle",
+      "item.alan_walker_music.diamond_heart.desc": "Alan Walker - Diamond Heart (feat. Sophia Somajo)",
+      "item.alan_walker_music.diamond_heart": "Disc",
+      "item.alan_walker_music.dreamer.desc": "Alan Walker - Dreamer",
+      "item.alan_walker_music.dreamer": "Disc",
+      "item.alan_walker_music.dust": "Disc",
+      "item.alan_walker_music.dust.desc": "Alan Walker, Robin Packalen - Dust",
+      "subtitles.extremes": "",
+      "subtitles.faded": "",
+      "subtitles.fire": "",
+      "subtitles.headlights": "",
+      "item.alan_walker_music.extremes.desc": "Alan Walker \u0026 Trevor Daniel - Extremes",
+      "item.alan_walker_music.extremes": "Disc",
+      "item.alan_walker_music.faded.desc": "Alan Walker - Faded",
+      "item.alan_walker_music.faded": "Disc",
+      "item.alan_walker_music.fire": "Disc",
+      "item.alan_walker_music.fire.desc": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire",
+      "item.alan_walker_music.headlights": "Disc",
+      "item.alan_walker_music.headlights.desc": "Alok \u0026 Alan Walker - Headlights (feat. KIDDO)",
+      "subtitles.heartbreakmelody": "",
+      "subtitles.helloworld": "",
+      "subtitles.incommunicado": "",
+      "subtitles.jumpstart": "",
+      "subtitles.lovesick": "",
+      "subtitles.memyselfandthenight": "",
+      "subtitles.moonshine": "",
+      "subtitles.oldhabits": "",
+      "item.alan_walker_music.heartbreak_melody": "Disc",
+      "item.alan_walker_music.heartbreak_melody.desc": "Alan Walker, FAANGS - Heartbreak Melody",
+      "item.alan_walker_music.hello_world": "Disc",
+      "item.alan_walker_music.hello_world.desc": "Alan Walker \u0026 Torine - Hello World",
+      "item.alan_walker_music.incommunicado": "Disc",
+      "item.alan_walker_music.incommunicado.desc": "Alan Walker, AR/CO - Incommunicado",
+      "item.alan_walker_music.jumpstart.desc": "Alan Walker - Jumpstart",
+      "item.alan_walker_music.jumpstart": "Disc",
+      "item.alan_walker_music.lovesick.desc": "Alan Walker - Lovesick",
+      "item.alan_walker_music.lovesick": "Disc",
+      "item.alan_walker_music.me_myself_and_the_night": "Disc",
+      "item.alan_walker_music.me_myself_and_the_night.desc": "Alan Walker - Me, Myself and The Night",
+      "item.alan_walker_music.moonshine.desc": "Alan Walker, Elley Duhé - Moonshine",
+      "item.alan_walker_music.moonshine": "Disc",
+      "item.alan_walker_music.old_habits.desc": "Alan Walker, Farruko \u0026 Sofia Reyes - Old Habits",
+      "item.alan_walker_music.old_habits": "Schallplatte",
+      "subtitles.play": "",
+      "subtitles.shutup": "",
+      "subtitles.singmetosleep": "",
+      "subtitles.thedrum": "",
+      "item.alan_walker_music.play.desc": " Alan Walker, K-391, Tungevaag, Mangoo - PLAY",
+      "item.alan_walker_music.play": "Disc",
+      "item.alan_walker_music.shut_up.desc": "Alan Walker \u0026 UPSHAL - Shut Up ",
+      "item.alan_walker_music.shut_up": "Disc",
+      "item.alan_walker_music.sing_me_to_sleep": "Schallplatte",
+      "item.alan_walker_music.sing_me_to_sleep.desc": "Alan Walker - Sing Me To Sleep",
+      "item.alan_walker_music.the_drum.desc": "Alan Walker - The Drum",
+      "item.alan_walker_music.the_drum": "Schallplatte",
+      "subtitles.thespectre": "",
+      "subtitles.time": "",
+      "subtitles.spacemelody": "",
+      "subtitles.welcometowalkerworld": "",
+      "subtitles.riseofthedrones": "",
+      "item.alan_walker_music.the_spectre.desc": "Alan Walker - The Spectre",
+      "item.alan_walker_music.the_spectre": "Schallplatte",
+      "item.alan_walker_music.time.desc": "Alan Walker, Hanz Zimmer - Time",
+      "item.alan_walker_music.time": "Schallplatte",
+      "item.alan_walker_music.space_melody": "Schallplatte",
+      "item.alan_walker_music.space_melody.desc": "Vize x Alan Walker - Space Melody (Edward Artemyev)",
+      "item.alan_walker_music.wecome_to_walkerworld": "Schallplatte",
+      "item.alan_walker_music.wecome_to_walkerworld.desc": "Alan Walker - Welcome To Walkerworld",
+      "item.alan_walker_music.rise_of_the_drones": "Schallplatte",
+      "item.alan_walker_music.rise_of_the_drones.desc": "World Of Walker - Rise Of The Drones",
+      "item_group.alan_walker_music.mobs": "Mobs",
+      "item.alan_walker_music.alan_walker_spawn_egg": "Alan Walker Spawn Egg",
+      "entity.alan_walker_music.alan_walker": "Alan Walker",
+      "subtitles.schritte": "",
+      "entity.alan_walker_music.bodyguard": "Bodyguard",
+      "item.alan_walker_music.bodyguard_spawn_egg": "Bodyguard Spawn Egg",
+      "painting.alan_walker_music.alan_walker_logo.title": "Alan Walker Logo",
+      "painting.alan_walker_music.alan_walker_logo.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.made_by_fmd.title": "Made By FMD",
+      "painting.alan_walker_music.made_by_fmd.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music.house_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music.house_of_walker.title": "House Of Walker",
+      "painting.alan_walker_music.alan_walker_old_habits.author": "FlorianMeixnerDEV",
+      "painting.alan_walker_music.alan_walker_old_habits.title": "Alan Walker Old Habits",
+      "painting.alan_walker_music.world_of_walker.title": "World Of Walker",
+      "painting.alan_walker_music.world_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "item_group.alan_walker_music.deko": "Deko",
+      "item.alan_walker_music.tisch": "Tisch",
+      "painting.alan_walker_music.creator_circle_painting.title": "Creator Circle ",
+      "painting.alan_walker_music.creator_circle_painting.author": "Alan Walker, FlorianMeixnerDEV",
+      "item_group.alan_walker_music.food": "Food",
+      "gui.alan_walker_music.link_info.button_website": "Website",
+      "gui.alan_walker_music.link_info.label_links": "Links",
+      "gui.alan_walker_music.link_info.button_github": "Github",
+      "gui.alan_walker_music.link_info.button_modrinth": "Modrinth",
+      "gui.alan_walker_music.link_info.button_close": "Close",
+      "gui.alan_walker_music.ingame_menu.label_made_by_florianmeixnerdev": "Made by FlorianMeixnerDEV",
+      "gui.alan_walker_music.link_info.label_github_source_code": "Github Source Code",
+      "gui.alan_walker_music.link_info.label_mod_page": "Mod Page",
+      "gui.alan_walker_music.link_info.label_here_you_can_find_my_online_pres": "Here you can find my ",
+      "gui.alan_walker_music.link_info.label_online_presence": "online presence:",
+      "subtitles.brokenstrings": "",
+      "subtitles.nothome": "",
+      "subtitles.faded_10th_anniversary": "",
+      "item.alan_walker_music.broken_strings": "Schallplatte",
+      "item.alan_walker_music.not_home": "Schallplatte",
+      "item.alan_walker_music.faded_10th_aniniversary": "Schallplatte",
+      "item.alan_walker_music.broken_strings.desc": "Alan Walker - Broken Strings ",
+      "item.alan_walker_music.not_home.desc": "Alan Walker - Not Home",
+      "item.alan_walker_music.faded_10th_aniniversary.desc": "Alan Walker - Faded - 10th Anniversary (Performance Song)",
+      "painting.alan_walker_music.creator_circle_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.creator_circle_klein.title": "Creator Circle Klein",
+      "painting.alan_walker_music.alan_walker_logo_klein.title": " Alan Walker Logo Small",
+      "painting.alan_walker_music.alan_walker_logo_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.alan_walker_protrait_small.author": "Alan Walker",
+      "painting.alan_walker_music.alan_walker_protrait_small.title": "Alan Walker Protrait Small",
+      "painting.alan_walker_music.alan_walker_potrait_big.title": "Alan Walker Potrait Big",
+      "painting.alan_walker_music.alan_walker_potrait_big.author": "Alan Walker",
+      "painting.alan_walker_music.alan_walker_logo_10x_10.title": "Alan Walker Logo 10x10",
+      "painting.alan_walker_music.alan_walker_logo_10x_10.author": "Alan Walker, FlorianMeixnerdEV",
+      "painting.alan_walker_music.creator_circle_10x_10.title": "Creator Circle 10x10",
+      "painting.alan_walker_music.creator_circle_10x_10.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.house_of_walker_10x_5.title": "House Of Walker 10x5",
+      "painting.alan_walker_music.house_of_walker_10x_5.author": "FlorianMeixnerDEV, Alan Walker",
+      "subtitles.void": "",
+      "subtitles.adagio": "",
+      "item.alan_walker_music.alan_walker_void": "Schallplatte",
+      "item.alan_walker_music.alan_walker_void.desc": "Alan Walker, Sorana - Void",
+      "item.alan_walker_music.adagio": "Schallplatte",
+      "item.alan_walker_music.adagio.desc": "Alan Walker - Adagio",
+      "subtitles.thisisme": "",
+      "subtitles.aw_monster": "",
+      "subtitles.aworldidontknow": "",
+      "item.alan_walker_music.this_is_me": "Schallplatte",
+      "item.alan_walker_music.this_is_me.desc": "Alan Walker, Keala Settle \u0026 The Greatest Showman Ensemble - This Is Me ",
+      "item.alan_walker_music.aw_monster": "Schallplatte",
+      "item.alan_walker_music.aw_monster.desc": "Alan Walker, Emyrson Flora - Monster",
+      "item.alan_walker_music.a_world_i_dont_know.desc": "Alan Walker - A World I Don’t Know",
+      "item.alan_walker_music.a_world_i_dont_know": "Schallplatte",
+      "subtitles.eroina": "",
+      "item.alan_walker_music.eroina": "Schallplatte",
+      "item.alan_walker_music.eroina.desc": "Alan Walker, Sorana - Eroina",
+      "item_group.alan_walker_music.custom_armor": "Custom Armor",
+      "item.alan_walker_music.police_chestplate": "Police Brustplatte",
+      "item.alan_walker_music.police_helmet": "Police Helm",
+      "item.alan_walker_music.police_leggings": "Police Beinschutz",
+      "item.alan_walker_music.police_boots": "Police Stiefel",
+      "item_group.alan_walker_music_fabric.disc": "Disc",
+      "item.alan_walker_music_fabric.alan_walker_135.desc": "Alan Walker - 135",
+      "item.alan_walker_music_fabric.alan_walker_135": "Schallplatte",
+      "item.alan_walker_music_fabric.welcome_to_lonely_club": "Schallplatte",
+      "item.alan_walker_music_fabric.welcome_to_lonely_club.desc": "Alan Walker, Steve Aoki, Lonely Club - Welcome To Lonely Club",
+      "item.alan_walker_music_fabric.alone.desc": "Alan Walker - Alone",
+      "item.alan_walker_music_fabric.alone": "Schallplatte",
+      "item.alan_walker_music_fabric.sailing": "Schallplatte",
+      "item.alan_walker_music_fabric.sailing.desc": "Alan Walker x Old School RuneScape - Sailing",
+      "item.alan_walker_music_fabric.avalon": "Schallplatte",
+      "item.alan_walker_music_fabric.avalon.desc": "Alan Walker, Anne Gudrun - Avalon",
+      "item.alan_walker_music_fabric.believers.desc": "Alan Walker, Conor Maynard - Believers",
+      "item.alan_walker_music_fabric.believers": "Schallplatte",
+      "item.alan_walker_music_fabric.blue": "Schallplatte",
+      "item.alan_walker_music_fabric.blue.desc": "Alan Walker \u0026 Ina Wroldsen - Blue",
+      "item.alan_walker_music_fabric.catch_me_if_you_can": "Schallplatte",
+      "item.alan_walker_music_fabric.catch_me_if_you_can.desc": "Alan Walker, Sorana - Catch Me If You Can",
+      "item.alan_walker_music_fabric.creator_circle.desc": "Alan Walker - Creator Circle",
+      "item.alan_walker_music_fabric.creator_circle": "Schallplatte",
+      "item.alan_walker_music_fabric.diamond_heart.desc": "Alan Walker - Diamond Heart (feat. Sophia Somajo)",
+      "item.alan_walker_music_fabric.diamond_heart": "Schallplatte",
+      "item.alan_walker_music_fabric.dreamer.desc": "Alan Walker - Dreamer",
+      "item.alan_walker_music_fabric.dreamer": "Schallplatte",
+      "item.alan_walker_music_fabric.dust.desc": "Alan Walker, Robin Packalen - Dust",
+      "item.alan_walker_music_fabric.dust": "Schallplatte",
+      "item.alan_walker_music_fabric.extremes.desc": "Alan Walker \u0026 Trevor Daniel - Extremes",
+      "item.alan_walker_music_fabric.extremes": "Schallplatte",
+      "item.alan_walker_music_fabric.faded": "Schallplatte",
+      "item.alan_walker_music_fabric.faded.desc": "Alan Walker - Faded",
+      "item.alan_walker_music_fabric.fire": "Schallplatte",
+      "item.alan_walker_music_fabric.fire.desc": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire",
+      "item.alan_walker_music_fabric.headlights": "Schallplatte",
+      "item.alan_walker_music_fabric.headlights.desc": "Alok \u0026 Alan Walker - Headlights (feat. KIDDO)",
+      "item.alan_walker_music_fabric.heartbreak_melody.desc": "Alan Walker, FAANGS - Heartbreak Melody",
+      "item.alan_walker_music_fabric.heartbreak_melody": "Schallplatte",
+      "item.alan_walker_music_fabric.hello_world": "Schallplatte",
+      "item.alan_walker_music_fabric.hello_world.desc": "Alan Walker \u0026 Torine - Hello World",
+      "item.alan_walker_music_fabric.incommunicado": "Schallplatte",
+      "item.alan_walker_music_fabric.incommunicado.desc": "Alan Walker, AR/CO - Incommunicado",
+      "item.alan_walker_music_fabric.jumpstart": "Schallplatte",
+      "item.alan_walker_music_fabric.jumpstart.desc": "Alan Walker - Jumpstart",
+      "item.alan_walker_music_fabric.lovesick.desc": "Alan Walker - Lovesick",
+      "item.alan_walker_music_fabric.lovesick": "Schallplatte",
+      "item.alan_walker_music_fabric.me_myself_and_the_night.desc": "Alan Walker - Me, Myself and The Night",
+      "item.alan_walker_music_fabric.me_myself_and_the_night": "Schallplatte",
+      "item.alan_walker_music_fabric.moonshine.desc": "Alan Walker, Elley Duhé - Moonshine",
+      "item.alan_walker_music_fabric.moonshine": "Schallplatte",
+      "item.alan_walker_music_fabric.old_habits.desc": "Alan Walker, Farruko \u0026 Sofia Reyes - Old Habits",
+      "item.alan_walker_music_fabric.old_habits": "Schallplatte",
+      "item.alan_walker_music_fabric.play": "Schallplatte",
+      "item.alan_walker_music_fabric.play.desc": " Alan Walker, K-391, Tungevaag, Mangoo - PLAY",
+      "item.alan_walker_music_fabric.shut_up.desc": "Alan Walker \u0026 UPSHAL - Shut Up ",
+      "item.alan_walker_music_fabric.shut_up": "Schallplatte",
+      "item.alan_walker_music_fabric.sing_me_to_sleep": "Schallplatte",
+      "item.alan_walker_music_fabric.sing_me_to_sleep.desc": "Alan Walker - Sing Me To Sleep",
+      "item.alan_walker_music_fabric.the_drum": "Schallplatte",
+      "item.alan_walker_music_fabric.the_drum.desc": "Alan Walker - The Drum",
+      "item.alan_walker_music_fabric.the_spectre.desc": "Alan Walker - The Spectre",
+      "item.alan_walker_music_fabric.the_spectre": "Schallplatte",
+      "item.alan_walker_music_fabric.time.desc": "Alan Walker, Hanz Zimmer - Time",
+      "item.alan_walker_music_fabric.time": "Schallplatte",
+      "item.alan_walker_music_fabric.space_melody": "Schallplatte",
+      "item.alan_walker_music_fabric.space_melody.desc": "Vize x Alan Walker - Space Melody (Edward Artemyev)",
+      "item.alan_walker_music_fabric.wecome_to_walkerworld": "Schallplatte",
+      "item.alan_walker_music_fabric.wecome_to_walkerworld.desc": "Alan Walker - Welcome To Walkerworld",
+      "item.alan_walker_music_fabric.rise_of_the_drones.desc": "World Of Walker - Rise Of The Drones",
+      "item.alan_walker_music_fabric.rise_of_the_drones": "Schallplatte",
+      "item_group.alan_walker_music_fabric.mobs": "Mobs",
+      "item.alan_walker_music_fabric.alan_walker_spawn_egg": "Alan Walker Spawn Egg",
+      "entity.alan_walker_music_fabric.alan_walker": "Alan Walker",
+      "item.alan_walker_music_fabric.bodyguard_spawn_egg": "Bodyguard Spawn Egg",
+      "entity.alan_walker_music_fabric.bodyguard": "Bodyguard",
+      "painting.alan_walker_music_fabric.alan_walker_logo.title": "Alan Walker Logo",
+      "painting.alan_walker_music_fabric.alan_walker_logo.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.house_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music_fabric.house_of_walker.title": "House Of Walker",
+      "painting.alan_walker_music_fabric.alan_walker_old_habits.author": "FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.alan_walker_old_habits.title": "Alan Walker Old Habits",
+      "painting.alan_walker_music_fabric.world_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music_fabric.world_of_walker.title": "World Of Walker",
+      "item_group.alan_walker_music_fabric.deko": "Deko",
+      "painting.alan_walker_music_fabric.creator_circle_painting.title": "Creator Circle ",
+      "painting.alan_walker_music_fabric.creator_circle_painting.author": "Alan Walker, FlorianMeixnerDEV",
+      "gui.alan_walker_music_fabric.link_info.button_modrinth": "Modrinth",
+      "gui.alan_walker_music_fabric.link_info.label_here_you_can_find_my_online_pres": "Here you can find my ",
+      "gui.alan_walker_music_fabric.link_info.label_online_presence": "online presence:",
+      "gui.alan_walker_music_fabric.link_info.button_website": "Website",
+      "gui.alan_walker_music_fabric.link_info.button_github": "Github",
+      "gui.alan_walker_music_fabric.link_info.button_close": "Close",
+      "item.alan_walker_music_fabric.broken_strings.desc": "Alan Walker - Broken Strings ",
+      "item.alan_walker_music_fabric.broken_strings": "Schallplatte",
+      "item.alan_walker_music_fabric.not_home": "Schallplatte",
+      "item.alan_walker_music_fabric.not_home.desc": "Alan Walker - Not Home",
+      "item.alan_walker_music_fabric.faded_10th_aniniversary.desc": "Alan Walker - Faded - 10th Anniversary (Performance Song)",
+      "item.alan_walker_music_fabric.faded_10th_aniniversary": "Schallplatte",
+      "painting.alan_walker_music_fabric.creator_circle_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.creator_circle_klein.title": "Creator Circle Klein",
+      "painting.alan_walker_music_fabric.alan_walker_logo_klein.title": " Alan Walker Logo Small",
+      "painting.alan_walker_music_fabric.alan_walker_logo_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.alan_walker_protrait_small.author": "Alan Walker",
+      "painting.alan_walker_music_fabric.alan_walker_protrait_small.title": "Alan Walker Protrait Small",
+      "painting.alan_walker_music_fabric.alan_walker_potrait_big.title": "Alan Walker Potrait Big",
+      "painting.alan_walker_music_fabric.alan_walker_potrait_big.author": "Alan Walker",
+      "painting.alan_walker_music_fabric.alan_walker_logo_10x_10.author": "Alan Walker, FlorianMeixnerdEV",
+      "painting.alan_walker_music_fabric.alan_walker_logo_10x_10.title": "Alan Walker Logo 10x10",
+      "painting.alan_walker_music_fabric.creator_circle_10x_10.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.creator_circle_10x_10.title": "Creator Circle 10x10",
+      "painting.alan_walker_music_fabric.house_of_walker_10x_5.title": "House Of Walker 10x5",
+      "painting.alan_walker_music_fabric.house_of_walker_10x_5.author": "FlorianMeixnerDEV, Alan Walker",
+      "item.alan_walker_music_fabric.alan_walker_void": "Schallplatte",
+      "item.alan_walker_music_fabric.alan_walker_void.desc": "Alan Walker, Sorana - Void",
+      "item.alan_walker_music_fabric.adagio": "Schallplatte",
+      "item.alan_walker_music_fabric.adagio.desc": "Alan Walker - Adagio",
+      "item.alan_walker_music_fabric.this_is_me.desc": "Alan Walker, Keala Settle \u0026 The Greatest Showman Ensemble - This Is Me ",
+      "item.alan_walker_music_fabric.this_is_me": "Schallplatte",
+      "item.alan_walker_music_fabric.aw_monster.desc": "Alan Walker, Emyrson Flora - Monster",
+      "item.alan_walker_music_fabric.aw_monster": "Schallplatte",
+      "item.alan_walker_music_fabric.a_world_i_dont_know.desc": "Alan Walker - A World I Don’t Know",
+      "item.alan_walker_music_fabric.a_world_i_dont_know": "Schallplatte",
+      "item.alan_walker_music_fabric.eroina.desc": "Alan Walker, Sorana - Eroina",
+      "item.alan_walker_music_fabric.eroina": "Schallplatte",
+      "item_group.alan_walker_music_fabric.custom_armor": "Custom Armor",
+      "item.alan_walker_music_fabric.police_helmet": "Police Helm",
+      "item.alan_walker_music_fabric.police_boots": "Police Stiefel",
+      "item.alan_walker_music_fabric.police_chestplate": "Police Brustplatte",
+      "item.alan_walker_music_fabric.police_leggings": "Police Beinschutz",
+      "item.alan_walker_music_fabric.crazy_fan_spawn_egg": "Crazy Fan Spawn Egg",
+      "entity.alan_walker_music_fabric.crazy_fan": "Crazy Fan",
+      "item.alan_walker_music_fabric.tisch": "Table",
+      "item.alan_walker_music_fabric.aw_logo": "Logo",
+      "item.alan_walker_music_fabric.aufsteller": "Aufsteller",
+      "subtitles.fantasy": "",
+      "subtitles.killingmeslowly": "",
+      "subtitles.brokenangel": "",
+      "subtitles.hymfortheweekend": "",
+      "subtitles.runningoutofroses": "",
+      "subtitles.fadedcoverbyjodok": "",
+      "subtitles.whoiamcoverbyjodok": "",
+      "item.alan_walker_music_fabric.fantasy.desc": "Alan Walker, Steve Aoki, Lonely Club - Fantasy",
+      "item.alan_walker_music_fabric.fantasy": "Schallplatte",
+      "item.alan_walker_music_fabric.killing_me_slowly.desc": "Alan Walker, Steve Aoki, Lonely Club - Killing Me Slowly (LaLaLa)",
+      "item.alan_walker_music_fabric.killing_me_slowly": "Schallplatte",
+      "item.alan_walker_music_fabric.broken_angel": "Schallplatte",
+      "item.alan_walker_music_fabric.broken_angel.desc": "Alan Walker, Steve Aoki, Lonely Club - Broken Angel",
+      "item.alan_walker_music_fabric.hym_for_the_weekend_remix": "Schallplatte",
+      "item.alan_walker_music_fabric.hym_for_the_weekend_remix.desc": "Alan Walker vs. Coldplay - Hym for The Weekend [Remix]",
+      "item.alan_walker_music_fabric.running_out_of_roses": "Schallplatte",
+      "item.alan_walker_music_fabric.running_out_of_roses.desc": "Alan Walker x Jamie Miller - Running Out Of Roses",
+      "item.alan_walker_music_fabric.faded_jodok.desc": "Alan Walker - Faded [Cello Cover by Jodok]",
+      "item.alan_walker_music_fabric.faded_jodok": "Schallplatte",
+      "item.alan_walker_music_fabric.who_i_am_jodok": "Schallplatte",
+      "item.alan_walker_music_fabric.who_i_am_jodok.desc": "Alan Walker - Who I Am [Cello Cover by Jodok]",
+      "item_group.alan_walker_music_fabric.tools": "Tools",
+      "entity.villager.alan_walker_music_fabric.disc_dealer": "Disc Dealer",
+      "subtitles.getaway": "",
+      "subtitles.sing_me_to_sleep": "",
+      "subtitles.beliver_av8": "",
+      "subtitles.peterpan": "",
+      "item.alan_walker_music_fabric.getaway.desc": "Alan Walker \u0026 Emyrson Flora - Getaway ",
+      "item.alan_walker_music_fabric.getaway": "Schalllplatte",
+      "item.alan_walker_music_fabric.believer_av_8.desc": "Alan Walker - Believer:AV8",
+      "item.alan_walker_music_fabric.believer_av_8": "Schallplatte",
+      "item.alan_walker_music_fabric.peter_pan": "Schallplatte",
+      "item.alan_walker_music_fabric.peter_pan.desc": "Alan Walker \u0026 ADREWBATES - Peter Pan",
+      "subtitles.dreamon": "",
+      "item.alan_walker_music_fabric.dream_on.desc": "Alan Walker - Dream On",
+      "item.alan_walker_music_fabric.dream_on": "Schallplatte",
+      "painting.alan_walker_music_fabric.awu_bahn.title": "Alan Walker ",
+      "painting.alan_walker_music_fabric.awu_bahn.author": "Florian Meixner",
+      "item.alan_walker_music_fabric.op_schwert": "OP Schwert",
+      "entity.alan_walker_music_fabric.angry_police": "Angry Police",
+      "item.alan_walker_music_fabric.angry_police_spawn_egg": "Angry Police Spawn Egg",
+      "item.alan_walker_music_fabric.walker_radio": "Walker Radio",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_play": "Play",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_stop": "Stop",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_next": "Next",
+      "gui.alan_walker_music_fabric.walker_radio_gui.Volume_suffix": "",
+      "gui.alan_walker_music_fabric.walker_radio_gui.label_walker_radio": "WALKER RADIO",
+      "gui.alan_walker_music_fabric.walker_radio_gui.label_volume_100": "Volume: 100%",
+      "gui.alan_walker_music_fabric.walker_radio_gui.label_faded": "Faded",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_back": "Back",
+      "gui.alan_walker_music_fabric.walker_radio_gui.Volume_prefix": "",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_close": "Close"
+    },
+    "de_de": {
+      "item_group.alan_walker_music.disc": "Schallplatte",
+      "item.alan_walker_music.alan_walker_135": "Schallplatte",
+      "item.alan_walker_music.alan_walker_135.desc": "Alan Walker - 135",
+      "item.alan_walker_music.welcome_to_lonely_club": "Schallplatte",
+      "item.alan_walker_music.welcome_to_lonely_club.desc": "Alan Walker, Steve Aoki, Lonely Club - Welcome To Lonely Club",
+      "item.alan_walker_music.alone.desc": "Alan Walker - Alone",
+      "item.alan_walker_music.alone": "Schallplatte",
+      "item.alan_walker_music.sailing.desc": "Alan Walker x Old School RuneScape - Sailing",
+      "item.alan_walker_music.sailing": "Schallplatte",
+      "item.alan_walker_music.avalon": "Schallplatte",
+      "item.alan_walker_music.avalon.desc": "Alan Walker, Anne Gudrun - Avalon",
+      "item.alan_walker_music.believers.desc": "Alan Walker, Conor Maynard - Believers",
+      "item.alan_walker_music.believers": "Schallplatte",
+      "item.alan_walker_music.blue": "Schallplatte",
+      "item.alan_walker_music.blue.desc": "Alan Walker \u0026 Ina Wroldsen - Blue",
+      "item.alan_walker_music.catch_me_if_you_can.desc": "Alan Walker, Sorana - Catch Me If You Can",
+      "item.alan_walker_music.catch_me_if_you_can": "Schallplatte",
+      "item.alan_walker_music.creator_circle": "Schallplatte",
+      "item.alan_walker_music.creator_circle.desc": "Alan Walker - Creator Circle",
+      "item.alan_walker_music.diamond_heart.desc": "Alan Walker - Diamond Heart (feat. Sophia Somajo)",
+      "item.alan_walker_music.diamond_heart": "Schallplatte",
+      "item.alan_walker_music.dreamer.desc": "Alan Walker - Dreamer",
+      "item.alan_walker_music.dreamer": "Schallplatte",
+      "item.alan_walker_music.dust": "Schallplatte",
+      "item.alan_walker_music.dust.desc": "Alan Walker, Robin Packalen - Dust",
+      "item.alan_walker_music.extremes.desc": "Alan Walker \u0026 Trevor Daniel - Extremes",
+      "item.alan_walker_music.extremes": "Schallplatte",
+      "item.alan_walker_music.faded.desc": "Alan Walker - Faded",
+      "item.alan_walker_music.faded": "Schallplatte",
+      "item.alan_walker_music.fire": "Schallplatte",
+      "item.alan_walker_music.fire.desc": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire",
+      "item.alan_walker_music.headlights": "Schallplatte",
+      "item.alan_walker_music.headlights.desc": "Alok \u0026 Alan Walker - Headlights (feat. KIDDO)",
+      "item.alan_walker_music.heartbreak_melody": "Schallplatte",
+      "item.alan_walker_music.heartbreak_melody.desc": "Alan Walker, FAANGS - Heartbreak Melody",
+      "item.alan_walker_music.hello_world": "Schallplatte",
+      "item.alan_walker_music.hello_world.desc": "Alan Walker \u0026 Torine - Hello World",
+      "item.alan_walker_music.incommunicado": "Schallplatte",
+      "item.alan_walker_music.incommunicado.desc": "Alan Walker, AR/CO - Incommunicado",
+      "item.alan_walker_music.jumpstart.desc": "Alan Walker - Jumpstart",
+      "item.alan_walker_music.jumpstart": "Schallplatte",
+      "item.alan_walker_music.lovesick.desc": "Alan Walker - Lovesick",
+      "item.alan_walker_music.lovesick": "Schallplatte",
+      "item.alan_walker_music.me_myself_and_the_night": "Schallplatte",
+      "item.alan_walker_music.me_myself_and_the_night.desc": "Alan Walker - Me, Myself and The Night",
+      "item.alan_walker_music.moonshine.desc": "Alan Walker, Elley Duhé - Moonshine",
+      "item.alan_walker_music.moonshine": "Schallplatte",
+      "item.alan_walker_music.old_habits.desc": "Alan Walker, Farruko \u0026 Sofia Reyes - Old Habits",
+      "item.alan_walker_music.old_habits": "Schallplatte",
+      "item.alan_walker_music.play.desc": "Alan Walker, K-391, Tungevaag, Mangoo - PLAY",
+      "item.alan_walker_music.play": "Schallplatte",
+      "item.alan_walker_music.shut_up.desc": "Alan Walker \u0026 UPSHAL - Shut Up",
+      "item.alan_walker_music.shut_up": "Schallplatte",
+      "item.alan_walker_music.sing_me_to_sleep": "Schallplatte",
+      "item.alan_walker_music.sing_me_to_sleep.desc": "Alan Walker - Sing Me To Sleep",
+      "item.alan_walker_music.the_drum.desc": "Alan Walker - The Drum",
+      "item.alan_walker_music.the_drum": "Schallplatte",
+      "item.alan_walker_music.the_spectre.desc": "Alan Walker - The Spectre",
+      "item.alan_walker_music.the_spectre": "Schallplatte",
+      "item.alan_walker_music.time.desc": "Alan Walker, Hanz Zimmer - Time",
+      "item.alan_walker_music.time": "Schallplatte",
+      "item.alan_walker_music.space_melody": "Schallplatte",
+      "item.alan_walker_music.space_melody.desc": "Vize x Alan Walker - Space Melody (Edward Artemyev)",
+      "item.alan_walker_music.wecome_to_walkerworld": "Schallplatte",
+      "item.alan_walker_music.wecome_to_walkerworld.desc": "Alan Walker - Welcome To Walkerworld",
+      "item.alan_walker_music.rise_of_the_drones": "Schallplatte",
+      "item.alan_walker_music.rise_of_the_drones.desc": "World Of Walker - Rise Of The Drones",
+      "item_group.alan_walker_music.mobs": "Mobs",
+      "item.alan_walker_music.alan_walker_spawn_egg": "Alan Walker Spawn Egg",
+      "entity.alan_walker_music.alan_walker": "Alan Walker",
+      "entity.alan_walker_music.bodyguard": "Bodyguard",
+      "item.alan_walker_music.bodyguard_spawn_egg": "Bodyguard Spawn Egg",
+      "painting.alan_walker_music.alan_walker_logo.title": "Alan Walker Logo",
+      "painting.alan_walker_music.alan_walker_logo.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.made_by_fmd.title": "Made By FMD",
+      "painting.alan_walker_music.made_by_fmd.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music.house_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music.house_of_walker.title": "House Of Walker",
+      "painting.alan_walker_music.alan_walker_old_habits.author": "FlorianMeixnerDEV",
+      "painting.alan_walker_music.alan_walker_old_habits.title": "Alan Walker Old Habits",
+      "painting.alan_walker_music.world_of_walker.title": "World Of Walker",
+      "painting.alan_walker_music.world_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "item_group.alan_walker_music.deko": "Deko",
+      "item.alan_walker_music.tisch": "Tisch",
+      "painting.alan_walker_music.creator_circle_painting.title": "Creator Circle",
+      "painting.alan_walker_music.creator_circle_painting.author": "Alan Walker, FlorianMeixnerDEV",
+      "item_group.alan_walker_music.food": "Essen",
+      "gui.alan_walker_music.link_info.button_website": "Website",
+      "gui.alan_walker_music.link_info.label_links": "Links",
+      "gui.alan_walker_music.link_info.button_github": "Github",
+      "gui.alan_walker_music.link_info.button_modrinth": "Modrinth",
+      "gui.alan_walker_music.link_info.button_close": "Schlie�en",
+      "gui.alan_walker_music.ingame_menu.label_made_by_florianmeixnerdev": "Made by FlorianMeixnerDEV",
+      "gui.alan_walker_music.link_info.label_github_source_code": "Github Source Code",
+      "gui.alan_walker_music.link_info.label_mod_page": "Mod Page",
+      "gui.alan_walker_music.link_info.label_here_you_can_find_my_online_pres": "Hier findest du meine",
+      "gui.alan_walker_music.link_info.label_online_presence": "Social Media Kan�le:",
+      "item.alan_walker_music.broken_strings": "Schallplatte",
+      "item.alan_walker_music.not_home": "Schallplatte",
+      "item.alan_walker_music.faded_10th_aniniversary": "Schallplatte",
+      "item.alan_walker_music.broken_strings.desc": "Alan Walker - Broken Strings",
+      "item.alan_walker_music.not_home.desc": "Alan Walker - Not Home",
+      "item.alan_walker_music.faded_10th_aniniversary.desc": "Alan Walker - Faded - 10th Anniversary (Performance Song)",
+      "painting.alan_walker_music.creator_circle_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.creator_circle_klein.title": "Creator Circle Klein",
+      "painting.alan_walker_music.alan_walker_logo_klein.title": "Alan Walker Logo Small",
+      "painting.alan_walker_music.alan_walker_logo_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.alan_walker_protrait_small.author": "Alan Walker",
+      "painting.alan_walker_music.alan_walker_protrait_small.title": "Alan Walker Protrait Small",
+      "painting.alan_walker_music.alan_walker_potrait_big.title": "Alan Walker Potrait Big",
+      "painting.alan_walker_music.alan_walker_potrait_big.author": "Alan Walker",
+      "painting.alan_walker_music.alan_walker_logo_10x_10.title": "Alan Walker Logo 10x10",
+      "painting.alan_walker_music.alan_walker_logo_10x_10.author": "Alan Walker, FlorianMeixnerdEV",
+      "painting.alan_walker_music.creator_circle_10x_10.title": "Creator Circle 10x10",
+      "painting.alan_walker_music.creator_circle_10x_10.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music.house_of_walker_10x_5.title": "House Of Walker 10x5",
+      "painting.alan_walker_music.house_of_walker_10x_5.author": "FlorianMeixnerDEV, Alan Walker",
+      "item.alan_walker_music.alan_walker_void": "Schallplatte",
+      "item.alan_walker_music.alan_walker_void.desc": "Alan Walker, Sorana - Void",
+      "item.alan_walker_music.adagio": "Schallplatte",
+      "item.alan_walker_music.adagio.desc": "Alan Walker - Adagio",
+      "item.alan_walker_music.this_is_me": "Schallplatte",
+      "item.alan_walker_music.this_is_me.desc": "Alan Walker, Keala Settle \u0026 The Greatest Showman Ensemble - This Is Me",
+      "item.alan_walker_music.aw_monster": "Schallplatte",
+      "item.alan_walker_music.aw_monster.desc": "Alan Walker, Emyrson Flora - Monster",
+      "item.alan_walker_music.a_world_i_dont_know.desc": "Alan Walker - A World I Don’t Know",
+      "item.alan_walker_music.a_world_i_dont_know": "Schallplatte",
+      "item.alan_walker_music.eroina": "Schallplatte",
+      "item.alan_walker_music.eroina.desc": "Alan Walker, Sorana - Eroina",
+      "item_group.alan_walker_music.custom_armor": "Custom Armor",
+      "item.alan_walker_music.police_chestplate": "Police Brustplatte",
+      "item.alan_walker_music.police_helmet": "Police Helm",
+      "item.alan_walker_music.police_leggings": "Police Beinschutz",
+      "item.alan_walker_music.police_boots": "Police Stiefel",
+      "item_group.alan_walker_music_fabric.disc": "Disc",
+      "item.alan_walker_music_fabric.alan_walker_135.desc": "Alan Walker - 135",
+      "item.alan_walker_music_fabric.alan_walker_135": "Schallplatte",
+      "item.alan_walker_music_fabric.welcome_to_lonely_club": "Schallplatte",
+      "item.alan_walker_music_fabric.welcome_to_lonely_club.desc": "Alan Walker, Steve Aoki, Lonely Club - Welcome To Lonely Club",
+      "item.alan_walker_music_fabric.alone.desc": "Alan Walker - Alone",
+      "item.alan_walker_music_fabric.alone": "Schallplatte",
+      "item.alan_walker_music_fabric.sailing": "Schallplatte",
+      "item.alan_walker_music_fabric.sailing.desc": "Alan Walker x Old School RuneScape - Sailing",
+      "item.alan_walker_music_fabric.avalon": "Schallplatte",
+      "item.alan_walker_music_fabric.avalon.desc": "Alan Walker, Anne Gudrun - Avalon",
+      "item.alan_walker_music_fabric.believers.desc": "Alan Walker, Conor Maynard - Believers",
+      "item.alan_walker_music_fabric.believers": "Schallplatte",
+      "item.alan_walker_music_fabric.blue": "Schallplatte",
+      "item.alan_walker_music_fabric.blue.desc": "Alan Walker \u0026 Ina Wroldsen - Blue",
+      "item.alan_walker_music_fabric.catch_me_if_you_can": "Schallplatte",
+      "item.alan_walker_music_fabric.catch_me_if_you_can.desc": "Alan Walker, Sorana - Catch Me If You Can",
+      "item.alan_walker_music_fabric.creator_circle.desc": "Alan Walker - Creator Circle",
+      "item.alan_walker_music_fabric.creator_circle": "Schallplatte",
+      "item.alan_walker_music_fabric.diamond_heart.desc": "Alan Walker - Diamond Heart (feat. Sophia Somajo)",
+      "item.alan_walker_music_fabric.diamond_heart": "Schallplatte",
+      "item.alan_walker_music_fabric.dreamer.desc": "Alan Walker - Dreamer",
+      "item.alan_walker_music_fabric.dreamer": "Schallplatte",
+      "item.alan_walker_music_fabric.dust.desc": "Alan Walker, Robin Packalen - Dust",
+      "item.alan_walker_music_fabric.dust": "Schallplatte",
+      "item.alan_walker_music_fabric.extremes.desc": "Alan Walker \u0026 Trevor Daniel - Extremes",
+      "item.alan_walker_music_fabric.extremes": "Schallplatte",
+      "item.alan_walker_music_fabric.faded": "Schallplatte",
+      "item.alan_walker_music_fabric.faded.desc": "Alan Walker - Faded",
+      "item.alan_walker_music_fabric.fire": "Schallplatte",
+      "item.alan_walker_music_fabric.fire.desc": "Alan Walker, YUQI of (G)I-DLE, JVKE - Fire",
+      "item.alan_walker_music_fabric.headlights": "Schallplatte",
+      "item.alan_walker_music_fabric.headlights.desc": "Alok \u0026 Alan Walker - Headlights (feat. KIDDO)",
+      "item.alan_walker_music_fabric.heartbreak_melody.desc": "Alan Walker, FAANGS - Heartbreak Melody",
+      "item.alan_walker_music_fabric.heartbreak_melody": "Schallplatte",
+      "item.alan_walker_music_fabric.hello_world": "Schallplatte",
+      "item.alan_walker_music_fabric.hello_world.desc": "Alan Walker \u0026 Torine - Hello World",
+      "item.alan_walker_music_fabric.incommunicado": "Schallplatte",
+      "item.alan_walker_music_fabric.incommunicado.desc": "Alan Walker, AR/CO - Incommunicado",
+      "item.alan_walker_music_fabric.jumpstart": "Schallplatte",
+      "item.alan_walker_music_fabric.jumpstart.desc": "Alan Walker - Jumpstart",
+      "item.alan_walker_music_fabric.lovesick.desc": "Alan Walker - Lovesick",
+      "item.alan_walker_music_fabric.lovesick": "Schallplatte",
+      "item.alan_walker_music_fabric.me_myself_and_the_night.desc": "Alan Walker - Me, Myself and The Night",
+      "item.alan_walker_music_fabric.me_myself_and_the_night": "Schallplatte",
+      "item.alan_walker_music_fabric.moonshine.desc": "Alan Walker, Elley Duhé - Moonshine",
+      "item.alan_walker_music_fabric.moonshine": "Schallplatte",
+      "item.alan_walker_music_fabric.old_habits.desc": "Alan Walker, Farruko \u0026 Sofia Reyes - Old Habits",
+      "item.alan_walker_music_fabric.old_habits": "Schallplatte",
+      "item.alan_walker_music_fabric.play": "Schallplatte",
+      "item.alan_walker_music_fabric.play.desc": "Alan Walker, K-391, Tungevaag, Mangoo - PLAY",
+      "item.alan_walker_music_fabric.shut_up.desc": "Alan Walker \u0026 UPSHAL - Shut Up",
+      "item.alan_walker_music_fabric.shut_up": "Schallplatte",
+      "item.alan_walker_music_fabric.sing_me_to_sleep": "Schallplatte",
+      "item.alan_walker_music_fabric.sing_me_to_sleep.desc": "Alan Walker - Sing Me To Sleep",
+      "item.alan_walker_music_fabric.the_drum": "Schallplatte",
+      "item.alan_walker_music_fabric.the_drum.desc": "Alan Walker - The Drum",
+      "item.alan_walker_music_fabric.the_spectre.desc": "Alan Walker - The Spectre",
+      "item.alan_walker_music_fabric.the_spectre": "Schallplatte",
+      "item.alan_walker_music_fabric.time.desc": "Alan Walker, Hanz Zimmer - Time",
+      "item.alan_walker_music_fabric.time": "Schallplatte",
+      "item.alan_walker_music_fabric.space_melody": "Schallplatte",
+      "item.alan_walker_music_fabric.space_melody.desc": "Vize x Alan Walker - Space Melody (Edward Artemyev)",
+      "item.alan_walker_music_fabric.wecome_to_walkerworld": "Schallplatte",
+      "item.alan_walker_music_fabric.wecome_to_walkerworld.desc": "Alan Walker - Welcome To Walkerworld",
+      "item.alan_walker_music_fabric.rise_of_the_drones.desc": "World Of Walker - Rise Of The Drones",
+      "item.alan_walker_music_fabric.rise_of_the_drones": "Schallplatte",
+      "item_group.alan_walker_music_fabric.mobs": "Mobs",
+      "item.alan_walker_music_fabric.alan_walker_spawn_egg": "Alan Walker Spawn Egg",
+      "entity.alan_walker_music_fabric.alan_walker": "Alan Walker",
+      "item.alan_walker_music_fabric.bodyguard_spawn_egg": "Bodyguard Spawn Egg",
+      "entity.alan_walker_music_fabric.bodyguard": "Bodyguard",
+      "painting.alan_walker_music_fabric.alan_walker_logo.title": "Alan Walker Logo",
+      "painting.alan_walker_music_fabric.alan_walker_logo.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.house_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music_fabric.house_of_walker.title": "House Of Walker",
+      "painting.alan_walker_music_fabric.alan_walker_old_habits.author": "FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.alan_walker_old_habits.title": "Alan Walker Old Habits",
+      "painting.alan_walker_music_fabric.world_of_walker.author": "FlorianMeixnerDEV, Alan Walker",
+      "painting.alan_walker_music_fabric.world_of_walker.title": "World Of Walker",
+      "item_group.alan_walker_music_fabric.deko": "Deko",
+      "painting.alan_walker_music_fabric.creator_circle_painting.title": "Creator Circle",
+      "painting.alan_walker_music_fabric.creator_circle_painting.author": "Alan Walker, FlorianMeixnerDEV",
+      "gui.alan_walker_music_fabric.link_info.button_modrinth": "Modrinth",
+      "gui.alan_walker_music_fabric.link_info.label_here_you_can_find_my_online_pres": "Here you can find my",
+      "gui.alan_walker_music_fabric.link_info.label_online_presence": "online presence:",
+      "gui.alan_walker_music_fabric.link_info.button_website": "Website",
+      "gui.alan_walker_music_fabric.link_info.button_github": "Github",
+      "gui.alan_walker_music_fabric.link_info.button_close": "Close",
+      "item.alan_walker_music_fabric.broken_strings.desc": "Alan Walker - Broken Strings",
+      "item.alan_walker_music_fabric.broken_strings": "Schallplatte",
+      "item.alan_walker_music_fabric.not_home": "Schallplatte",
+      "item.alan_walker_music_fabric.not_home.desc": "Alan Walker - Not Home",
+      "item.alan_walker_music_fabric.faded_10th_aniniversary.desc": "Alan Walker - Faded - 10th Anniversary (Performance Song)",
+      "item.alan_walker_music_fabric.faded_10th_aniniversary": "Schallplatte",
+      "painting.alan_walker_music_fabric.creator_circle_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.creator_circle_klein.title": "Creator Circle Klein",
+      "painting.alan_walker_music_fabric.alan_walker_logo_klein.title": "Alan Walker Logo Small",
+      "painting.alan_walker_music_fabric.alan_walker_logo_klein.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.alan_walker_protrait_small.author": "Alan Walker",
+      "painting.alan_walker_music_fabric.alan_walker_protrait_small.title": "Alan Walker Protrait Small",
+      "painting.alan_walker_music_fabric.alan_walker_potrait_big.title": "Alan Walker Potrait Big",
+      "painting.alan_walker_music_fabric.alan_walker_potrait_big.author": "Alan Walker",
+      "painting.alan_walker_music_fabric.alan_walker_logo_10x_10.author": "Alan Walker, FlorianMeixnerdEV",
+      "painting.alan_walker_music_fabric.alan_walker_logo_10x_10.title": "Alan Walker Logo 10x10",
+      "painting.alan_walker_music_fabric.creator_circle_10x_10.author": "Alan Walker, FlorianMeixnerDEV",
+      "painting.alan_walker_music_fabric.creator_circle_10x_10.title": "Creator Circle 10x10",
+      "painting.alan_walker_music_fabric.house_of_walker_10x_5.title": "House Of Walker 10x5",
+      "painting.alan_walker_music_fabric.house_of_walker_10x_5.author": "FlorianMeixnerDEV, Alan Walker",
+      "item.alan_walker_music_fabric.alan_walker_void": "Schallplatte",
+      "item.alan_walker_music_fabric.alan_walker_void.desc": "Alan Walker, Sorana - Void",
+      "item.alan_walker_music_fabric.adagio": "Schallplatte",
+      "item.alan_walker_music_fabric.adagio.desc": "Alan Walker - Adagio",
+      "item.alan_walker_music_fabric.this_is_me.desc": "Alan Walker, Keala Settle \u0026 The Greatest Showman Ensemble - This Is Me",
+      "item.alan_walker_music_fabric.this_is_me": "Schallplatte",
+      "item.alan_walker_music_fabric.aw_monster.desc": "Alan Walker, Emyrson Flora - Monster",
+      "item.alan_walker_music_fabric.aw_monster": "Schallplatte",
+      "item.alan_walker_music_fabric.a_world_i_dont_know.desc": "Alan Walker - A World I Don’t Know",
+      "item.alan_walker_music_fabric.a_world_i_dont_know": "Schallplatte",
+      "item.alan_walker_music_fabric.eroina.desc": "Alan Walker, Sorana - Eroina",
+      "item.alan_walker_music_fabric.eroina": "Schallplatte",
+      "item_group.alan_walker_music_fabric.custom_armor": "Custom Armor",
+      "item.alan_walker_music_fabric.police_helmet": "Police Helm",
+      "item.alan_walker_music_fabric.police_boots": "Police Stiefel",
+      "item.alan_walker_music_fabric.police_chestplate": "Police Brustplatte",
+      "item.alan_walker_music_fabric.police_leggings": "Police Beinschutz",
+      "item.alan_walker_music_fabric.crazy_fan_spawn_egg": "Crazy Fan Spawn Egg",
+      "entity.alan_walker_music_fabric.crazy_fan": "Crazy Fan",
+      "item.alan_walker_music_fabric.tisch": "Tisch",
+      "item.alan_walker_music_fabric.aw_logo": "Logo",
+      "item.alan_walker_music_fabric.aufsteller": "Aufsteller",
+      "item.alan_walker_music_fabric.fantasy.desc": "Alan Walker, Steve Aoki, Lonely Club - Fantasy",
+      "item.alan_walker_music_fabric.fantasy": "Schallplatte",
+      "item.alan_walker_music_fabric.killing_me_slowly.desc": "Alan Walker, Steve Aoki, Lonely Club - Killing Me Slowly (LaLaLa)",
+      "item.alan_walker_music_fabric.killing_me_slowly": "Schallplatte",
+      "item.alan_walker_music_fabric.broken_angel": "Schallplatte",
+      "item.alan_walker_music_fabric.broken_angel.desc": "Alan Walker, Steve Aoki, Lonely Club - Broken Angel",
+      "item.alan_walker_music_fabric.hym_for_the_weekend_remix": "Schallplatte",
+      "item.alan_walker_music_fabric.hym_for_the_weekend_remix.desc": "Alan Walker vs. Coldplay - Hym for The Weekend [Remix]",
+      "item.alan_walker_music_fabric.running_out_of_roses": "Schallplatte",
+      "item.alan_walker_music_fabric.running_out_of_roses.desc": "Alan Walker x Jamie Miller - Running Out Of Roses",
+      "item.alan_walker_music_fabric.faded_jodok.desc": "Alan Walker - Faded [Cello Cover by Jodok]",
+      "item.alan_walker_music_fabric.faded_jodok": "Schallplatte",
+      "item.alan_walker_music_fabric.who_i_am_jodok": "Schallplatte",
+      "item.alan_walker_music_fabric.who_i_am_jodok.desc": "Alan Walker - Who I Am [Cello Cover by Jodok]",
+      "item_group.alan_walker_music_fabric.tools": "Tools",
+      "entity.villager.alan_walker_music_fabric.disc_dealer": "Disc Dealer",
+      "subtitles.getaway": "",
+      "subtitles.sing_me_to_sleep": "",
+      "subtitles.beliver_av8": "",
+      "subtitles.peterpan": "",
+      "item.alan_walker_music_fabric.getaway.desc": "Alan Walker \u0026 Emyrson Flora - Getaway ",
+      "item.alan_walker_music_fabric.getaway": "Schalllplatte",
+      "item.alan_walker_music_fabric.believer_av_8.desc": "Alan Walker - Believer:AV8",
+      "item.alan_walker_music_fabric.believer_av_8": "Schallplatte",
+      "item.alan_walker_music_fabric.peter_pan": "Schallplatte",
+      "item.alan_walker_music_fabric.peter_pan.desc": "Alan Walker \u0026 ADREWBATES - Peter Pan",
+      "subtitles.dreamon": "",
+      "item.alan_walker_music_fabric.dream_on.desc": "Alan Walker - Dream On",
+      "item.alan_walker_music_fabric.dream_on": "Schallplatte",
+      "painting.alan_walker_music_fabric.awu_bahn.title": "Alan Walker ",
+      "painting.alan_walker_music_fabric.awu_bahn.author": "Florian Meixner",
+      "item.alan_walker_music_fabric.op_schwert": "OP Schwert",
+      "entity.alan_walker_music_fabric.angry_police": "Angry Police",
+      "item.alan_walker_music_fabric.angry_police_spawn_egg": "Angry Police Spawn Egg",
+      "item.alan_walker_music_fabric.walker_radio": "Walker Radio",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_play": "Play",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_stop": "Stop",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_next": "Next",
+      "gui.alan_walker_music_fabric.walker_radio_gui.Volume_suffix": "",
+      "gui.alan_walker_music_fabric.walker_radio_gui.label_walker_radio": "WALKER RADIO",
+      "gui.alan_walker_music_fabric.walker_radio_gui.label_volume_100": "Volume: 100%",
+      "gui.alan_walker_music_fabric.walker_radio_gui.label_faded": "Faded",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_back": "Back",
+      "gui.alan_walker_music_fabric.walker_radio_gui.Volume_prefix": "",
+      "gui.alan_walker_music_fabric.walker_radio_gui.button_close": "Close"
+    }
+  },
+  "metadata": {
+    "files": [
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModCommands.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModVillagerProfessions.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModItemExtensions.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/network/MenuStateUpdateMessage.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModMenus.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModScreens.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModArmorModels.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/PiglinAiMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/EquipmentLayerRendererMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModBlocks.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModItems.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/ServerPlayerMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/RepairItemRecipeMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModEntities.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/MonsterRoomFeatureMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModEntityRenderers.java",
+      "src/main/resources/assets/alan_walker_music_fabric/sounds.json",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModSounds.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/event/PlayerEvents.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/event/BlockEvents.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/ItemStackMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/BoneMealItemMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/event/LivingEntityEvents.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/LivingEntityMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/event/ItemEvents.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/CommandsMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/AlanWalkerMusicFabricMod.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/BlockItemMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/AlanWalkerMusicFabricModClient.java",
+      "src/main/resources/fabric.mod.json",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/init/AlanWalkerMusicFabricModTabs.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/ExperienceOrbMixin.java",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/event/MiscEvents.java",
+      "src/main/resources/META-INF/alan_walker_music_fabric.classtweaker",
+      "src/main/java/net/florianmeixnerdev/alanwalkermusic/mixin/PlayerMixin.java",
+      "src/main/resources/pack.mcmeta",
+      "src/main/resources/alan_walker_music_fabric.mixins.json"
+    ]
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "CreativeTab",
+        "children": []
+      },
+      {
+        "name": "Mobs",
+        "children": []
+      },
+      {
+        "name": "Items",
+        "children": [
+          {
+            "name": "Rezepte",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Prozeduren",
+        "children": [
+          {
+            "name": "GUI",
+            "children": [
+              {
+                "name": "Info",
+                "children": []
+              }
+            ]
+          },
+          {
+            "name": "Walker Radio",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Befehle",
+        "children": []
+      },
+      {
+        "name": "Beutetabellen",
+        "children": []
+      },
+      {
+        "name": "Gemaelde",
+        "children": []
+      },
+      {
+        "name": "Disc",
+        "children": []
+      },
+      {
+        "name": "Essen",
+        "children": []
+      },
+      {
+        "name": "GUI",
+        "children": []
+      },
+      {
+        "name": "Custom Armor",
+        "children": []
+      },
+      {
+        "name": "Funktionen",
+        "children": []
+      },
+      {
+        "name": "Dorfbewohner Beruf",
+        "children": []
+      },
+      {
+        "name": "Tools",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "alan_walker_music_fabric",
+    "modName": "Alan Walker Music [Fabric]",
+    "version": "1.1.1",
+    "description": "This mod brings the unforgettable sounds of Alan Walker directly into your Minecraft world! Discover new, collectible music tracks and face three unique new mobs that provide a musical challenge.",
+    "author": "FlorianMeixnerDEV",
+    "websiteURL": "https://florianmeixnerdev.4lima.de/aw.html",
+    "license": "Creative Commons Attribution-NonCommercial 3.0",
+    "serverSideOnly": false,
+    "modPicture": "modlogo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-26.1.2",
+    "credits": "Creator: Florian Meixner ",
+    "modElementsPackage": "net.florianmeixnerdev.alanwalkermusic"
+  },
+  "mcreatorVersion": 202600233518
+}

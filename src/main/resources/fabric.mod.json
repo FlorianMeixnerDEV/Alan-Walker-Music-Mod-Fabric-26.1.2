@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "alan_walker_music_fabric",
+  "version": "1.1.1",
+  "name": "Alan Walker Music [Fabric]",
+  "description": "This mod brings the unforgettable sounds of Alan Walker directly into your Minecraft world! Discover new, collectible music tracks and face three unique new mobs that provide a musical challenge.",
+  "authors": [
+    "FlorianMeixnerDEV"
+  ],
+  "contact": {
+    "homepage": "https://florianmeixnerdev.4lima.de/aw.html",
+    "sources": ""
+  },
+  "license": "Creative Commons Attribution-NonCommercial 3.0",
+  "icon": "logo.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.florianmeixnerdev.alanwalkermusic.AlanWalkerMusicFabricMod"
+    ],
+    "client": [
+      "net.florianmeixnerdev.alanwalkermusic.AlanWalkerMusicFabricModClient"
+    ]
+  },
+  "mixins": [
+    "alan_walker_music_fabric.mixins.json"
+  ],
+  "accessWidener": "META-INF/alan_walker_music_fabric.classtweaker",
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.1.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

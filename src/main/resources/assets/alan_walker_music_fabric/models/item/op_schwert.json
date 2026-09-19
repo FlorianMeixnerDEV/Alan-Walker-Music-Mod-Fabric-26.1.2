@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "alan_walker_music_fabric:item/opschwert"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "wants": {
+    "id": "minecraft:emerald",
+    "count": 3
+  },
+  "additional_wants": {
+    "id": "minecraft:diamond",
+    "count": 2
+  },
+  "gives": {
+    "id": "alan_walker_music_fabric:peter_pan"
+  },
+  "max_uses": 10,
+  "xp": 5,
+  "reputation_discount": 0.05
+}

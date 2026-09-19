@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "deko",
+  "category": "building",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": "minecraft:birch_planks"
+  },
+  "result": {
+    "id": "alan_walker_music_fabric:tisch",
+    "count": 1
+  }
+}

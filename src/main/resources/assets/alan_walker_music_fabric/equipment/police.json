@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "alan_walker_music_fabric:iron_layer_1"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "alan_walker_music_fabric:iron_layer_2"
+      }
+    ]
+  }
+}

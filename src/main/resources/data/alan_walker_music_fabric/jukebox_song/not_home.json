@@ -1,0 +1,8 @@
+{
+  "comparator_output": 0,
+  "description": {
+    "translate": "item.alan_walker_music_fabric.not_home.desc"
+  },
+  "length_in_seconds": 120,
+  "sound_event": "alan_walker_music_fabric:nothome"
+}

@@ -1,0 +1,157 @@
+{
+  "_fv": 89,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 300,
+    "height": 220,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_walker_radio",
+          "text": {
+            "fixedValue": "WALKER RADIO"
+          },
+          "color": {
+            "value": -39322,
+            "falpha": 0.0
+          },
+          "hasShadow": true,
+          "x": 177,
+          "y": 17,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_faded",
+          "text": {
+            "fixedValue": "Faded"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 195,
+          "y": 107,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_play",
+          "text": "Play",
+          "isUndecorated": false,
+          "onClick": "WalkerRadioPlay",
+          "width": 45,
+          "height": 20,
+          "x": 96,
+          "y": 179,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_back",
+          "text": "Back",
+          "isUndecorated": false,
+          "width": 45,
+          "height": 20,
+          "x": 285,
+          "y": 179,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_stop",
+          "text": "Stop",
+          "isUndecorated": false,
+          "onClick": "WalkerRadioStop",
+          "width": 45,
+          "height": 20,
+          "x": 159,
+          "y": 179,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_next",
+          "text": "Next",
+          "isUndecorated": false,
+          "width": 45,
+          "height": 20,
+          "x": 222,
+          "y": 179,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_volume_100",
+          "text": {
+            "fixedValue": "Volume: 100%"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "hasShadow": false,
+          "x": 78,
+          "y": 206,
+          "locked": false
+        }
+      },
+      {
+        "type": "slider",
+        "data": {
+          "name": "Volume",
+          "min": 0.0,
+          "max": 100.0,
+          "value": 100.0,
+          "step": 1.0,
+          "prefix": "",
+          "suffix": "",
+          "width": 50,
+          "height": 20,
+          "x": 78,
+          "y": 17,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_close",
+          "text": "Close",
+          "isUndecorated": false,
+          "width": 50,
+          "height": 20,
+          "x": 303,
+          "y": 17,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

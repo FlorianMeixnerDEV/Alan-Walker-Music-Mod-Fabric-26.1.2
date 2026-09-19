@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:awu_bahn",
+  "height": 3,
+  "width": 5,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.awu_bahn.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.awu_bahn.author"
+  }
+}

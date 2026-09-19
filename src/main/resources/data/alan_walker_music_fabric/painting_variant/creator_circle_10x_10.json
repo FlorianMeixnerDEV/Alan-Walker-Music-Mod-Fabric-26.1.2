@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:creator_circle_10x_10",
+  "height": 10,
+  "width": 10,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.creator_circle_10x_10.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.creator_circle_10x_10.author"
+  }
+}

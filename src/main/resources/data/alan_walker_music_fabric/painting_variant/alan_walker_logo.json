@@ -1,0 +1,13 @@
+{
+  "asset_id": "alan_walker_music_fabric:alan_walker_logo",
+  "height": 2,
+  "width": 2,
+  "title": {
+    "color": "yellow",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_logo.title"
+  },
+  "author": {
+    "color": "gray",
+    "translate": "painting.alan_walker_music_fabric.alan_walker_logo.author"
+  }
+}
